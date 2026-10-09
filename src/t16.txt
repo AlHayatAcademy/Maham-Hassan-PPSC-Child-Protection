@@ -1,0 +1,51 @@
+# Test 16 - Everyday science, health and IT
+The SI unit of force is:|Newton|Joule|Watt|Pascal|1 newton is the force needed to accelerate 1 kg at 1 m/s². Joule is the unit of energy, watt of power and pascal of pressure.
+The SI unit of electric current is:|Ampere|Volt|Ohm|Coulomb|Volt is potential difference, ohm is resistance (Ohm's law V = IR) and coulomb is charge.
+The speed of light in vacuum is approximately:|3 × 10^8 m/s|3 × 10^6 m/s|3 × 10^10 m/s|300 m/s|Light takes about 8 minutes to travel from the Sun to the Earth.
+Sound travels fastest in:|Solids|Liquids|Gases|Vacuum|Sound needs a medium. It travels faster in solids than in liquids and gases because particles are closely packed.
+The chemical formula of water is:|H2O|CO2|NaCl|O2|Water is formed by two hydrogen atoms and one oxygen atom. Pure water has pH 7.
+The pH of a neutral solution is:|7|0|14|1|pH less than 7 is acidic and more than 7 is basic. Lemon juice is acidic; soap is basic.
+The most abundant gas in Earth's atmosphere is:|Nitrogen (78%)|Oxygen|Carbon dioxide|Argon|Oxygen forms about 21%. Argon is about 0.93% and CO2 about 0.04%.
+The gas responsible for the greenhouse effect mainly emitted by burning fossil fuels is:|Carbon dioxide|Helium|Neon|Oxygen|Methane and nitrous oxide are also greenhouse gases. The ozone layer protects from UV radiation.
+Common salt is chemically:|Sodium chloride|Sodium carbonate|Potassium chloride|Calcium chloride|NaCl is used in food preservation and as a source for chlorine and caustic soda.
+Which metal is liquid at room temperature?|Mercury|Iron|Sodium|Zinc|Bromine is the only non-metal liquid at room temperature.
+The hardest natural substance is:|Diamond|Graphite|Quartz|Iron|Diamond and graphite are allotropes of carbon.
+The chemical symbol of gold is:|Au|Ag|Fe|Gd|Silver is Ag, iron is Fe, sodium is Na and potassium is K.
+The lightest element is:|Hydrogen|Helium|Lithium|Oxygen|Hydrogen has atomic number 1. Helium is the second lightest.
+Which vitamin is produced in the skin by sunlight?|Vitamin D|Vitamin C|Vitamin A|Vitamin K|Deficiency of Vitamin D causes rickets in children and osteomalacia in adults.
+Deficiency of Vitamin C causes:|Scurvy|Rickets|Night blindness|Beriberi|Vitamin A deficiency causes night blindness; B1 (thiamine) deficiency causes beriberi.
+Iron deficiency causes:|Anaemia|Goitre|Scurvy|Rickets|Iodine deficiency causes goitre. Iron and iodine fortification are important child nutrition programmes.
+The powerhouse of the cell is:|Mitochondria|Nucleus|Ribosome|Golgi body|Mitochondria produce ATP. The nucleus contains DNA and controls cell activity.
+The human body has how many chromosomes?|46 (23 pairs)|23|44|48|Down syndrome results from an extra chromosome 21. Sex chromosomes are XX for females and XY for males.
+The largest organ of the human body is:|Skin|Liver|Heart|Lung|The liver is the largest internal organ. The skin protects against infection and regulates temperature.
+The normal human body temperature is:|37°C (98.6°F)|35°C|40°C|30°C|Fever is generally above 38°C. High fever in infants needs urgent medical attention.
+The normal adult heart rate is about:|60–100 beats per minute|10–20|150–200|250|Newborns have a higher heart rate (100–160 bpm).
+Which blood group is the universal donor?|O negative|AB positive|A positive|B negative|AB positive is the universal recipient. Rh factor is named after Rhesus monkey.
+Which part of the blood helps in clotting?|Platelets|Red blood cells|White blood cells|Plasma only|RBCs carry oxygen via haemoglobin. WBCs fight infection.
+Insulin is produced by the:|Pancreas|Liver|Kidney|Stomach|Lack of insulin causes diabetes mellitus. World Diabetes Day is on 14 November.
+The 'master gland' of the human body is:|Pituitary|Thyroid|Adrenal|Pancreas|It is located at the base of the brain and controls other endocrine glands.
+Dengue fever is transmitted by:|Aedes mosquito|Anopheles mosquito|Housefly|Rat flea|Malaria is transmitted by female Anopheles mosquito. Cleaning stagnant water prevents mosquito breeding.
+Which disease is caused by a virus?|Polio|Typhoid|Tuberculosis|Cholera|Typhoid, TB and cholera are bacterial diseases. Polio is caused by poliovirus and prevented by vaccine.
+Tuberculosis is caused by:|Mycobacterium tuberculosis|Plasmodium|Vibrio cholerae|Salmonella|TB mainly affects lungs. DOTS treatment is used for TB.
+Malaria is caused by:|Plasmodium (a protozoan)|Bacteria|Virus|Fungus|Plasmodium is transmitted by the female Anopheles mosquito.
+Oral Rehydration Salts (ORS) are used to treat:|Dehydration due to diarrhoea|Fever|Cough|Headache|Diarrhoea is a leading cause of child mortality. ORS and zinc are standard treatment.
+Photosynthesis occurs in the:|Chloroplasts of green plants|Mitochondria|Roots|Bark|Plants absorb CO2 and release oxygen in sunlight.
+Plants release oxygen during:|Photosynthesis|Respiration|Transpiration|Digestion|Respiration releases carbon dioxide.
+The process of conversion of milk to curd is due to:|Lactobacillus bacteria|Yeast|Virus|Fungus|It is an example of useful bacteria. Yeast is used for fermentation in bread.
+Which planet is known as the Red Planet?|Mars|Venus|Jupiter|Saturn|Venus is the hottest planet. Jupiter is the largest planet. Mercury is closest to the Sun.
+The largest planet in the solar system is:|Jupiter|Saturn|Earth|Neptune|Jupiter has the Great Red Spot. Saturn has prominent rings.
+The Earth takes how long to complete one revolution around the Sun?|365.25 days|24 hours|30 days|12 hours|Rotation takes 24 hours and causes day and night; revolution causes seasons.
+The nearest star to Earth is:|The Sun|Proxima Centauri|Sirius|Polaris|Proxima Centauri is the nearest star after the Sun at about 4.2 light years.
+A lunar eclipse occurs when:|Earth comes between the Sun and the Moon|Moon comes between Sun and Earth|Sun is behind Mars|Earth is far from the Sun|A solar eclipse occurs when the Moon is between the Sun and the Earth.
+Which part of the eye controls the amount of light entering?|Iris (pupil)|Retina|Cornea|Lens|The retina has rods and cones. Myopia is corrected by concave lenses; hypermetropia by convex lenses.
+Which lens is used to correct short-sightedness (myopia)?|Concave lens|Convex lens|Bifocal only|Cylindrical lens|Concave diverges light rays so the image falls on the retina.
+The device used to measure atmospheric pressure is:|Barometer|Thermometer|Hygrometer|Anemometer|Hygrometer measures humidity; anemometer measures wind speed; seismograph measures earthquakes.
+Richter scale measures:|Earthquake magnitude|Wind speed|Temperature|Rainfall|Seismographs record earthquakes. The 2005 earthquake in Pakistan had magnitude 7.6.
+Which of the following is a renewable source of energy?|Solar|Coal|Natural gas|Petroleum|Pakistan is working to increase solar, wind and hydropower share.
+Which fuel is used in CNG?|Methane|Propane|Butane|Hydrogen|Compressed natural gas is mainly methane.
+The full form of CPU is:|Central Processing Unit|Central Program Unit|Computer Personal Unit|Control Processing Utility|The CPU is the brain of the computer and executes instructions.
+The full form of RAM is:|Random Access Memory|Read Access Memory|Run Allocated Memory|Rapid Action Memory|RAM is volatile memory, its content disappears when power is off. ROM is non-volatile.
+1 Byte equals:|8 bits|4 bits|16 bits|1024 bits|1 KB = 1024 bytes; 1 MB = 1024 KB; 1 GB = 1024 MB.
+Which of the following is an input device?|Keyboard|Monitor|Printer|Speaker|Output devices display results. A touchscreen is both input and output.
+HTTP stands for:|HyperText Transfer Protocol|High Text Transfer Program|HyperTool Transfer Page|Home Text Transmission Protocol|HTTPS is the secure version. Websites use URLs.
+A computer virus is:|A malicious program that can replicate and damage files|A hardware part|A website|A keyboard|Antivirus software and safe browsing help protect devices. Children need online safety education.

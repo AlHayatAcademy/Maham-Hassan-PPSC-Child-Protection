@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>PPSC Child Protection Officer (BPS-17) – 1000 MCQs Practice</title>
+<meta name="theme-color" content="#5b21b6">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<header class="top">
+  <div class="brand" id="home-link">🛡️ <span>PPSC CPO <b>Prep</b></span></div>
+  <div class="top-right">
+    <span id="overall" class="pill">0 / 1000 done</span>
+    <button id="reset-all" class="ghost" title="Reset all progress">Reset</button>
+  </div>
+</header>
+
+<main>
+  <!-- HOME -->
+  <section id="home" class="view">
+    <div class="hero">
+      <h1>Child Protection Officer <small>BPS-17</small></h1>
+      <p>PPSC Case No. 07-RB/2026 · 26 posts · 20 Practice Tests × 50 MCQs = <b>1000 questions</b></p>
+      <div class="stats">
+        <div class="stat s1"><b id="st-att">0</b><span>Attempted</span></div>
+        <div class="stat s2"><b id="st-acc">0%</b><span>Accuracy</span></div>
+        <div class="stat s3"><b id="st-done">0</b><span>Tests done</span></div>
+        <div class="stat s4"><b id="st-best">0%</b><span>Best score</span></div>
+      </div>
+      <p class="note">Questions are expert predictions modelled on PPSC paper style (4 options A–D, 1 mark each). Always cross-check laws and current affairs with the official sources before the exam.</p>
+    </div>
+    <div class="tabs" id="filters"></div>
+    <div id="grid" class="grid"></div>
+  </section>
+
+  <!-- QUIZ -->
+  <section id="quiz" class="view hidden">
+    <div class="qbar">
+      <button id="back" class="ghost">← Tests</button>
+      <div class="qtitle" id="qtitle"></div>
+      <div class="timer" id="timer">00:00</div>
+    </div>
+    <div class="progress"><div id="pbar"></div></div>
+    <div class="card" id="qcard">
+      <div class="qmeta"><span id="qnum"></span><span id="qcat" class="cat"></span></div>
+      <h2 id="qtext"></h2>
+      <div id="opts" class="opts"></div>
+      <div id="expl" class="expl hidden"></div>
+    </div>
+    <div class="nav">
+      <button id="prev" class="btn alt">‹ Prev</button>
+      <button id="next" class="btn">Next ›</button>
+    </div>
+    <div class="palette" id="palette"></div>
+    <button id="finish" class="btn finish">Finish &amp; See Result</button>
+  </section>
+
+  <!-- RESULT -->
+  <section id="result" class="view hidden">
+    <div class="hero res">
+      <h1 id="r-title"></h1>
+      <div class="ring" id="ring"><b id="r-pct"></b></div>
+      <p id="r-line"></p>
+      <div class="stats">
+        <div class="stat s2"><b id="r-c">0</b><span>Correct</span></div>
+        <div class="stat s5"><b id="r-w">0</b><span>Wrong</span></div>
+        <div class="stat s3"><b id="r-s">0</b><span>Skipped</span></div>
+        <div class="stat s4"><b id="r-t">0</b><span>Time</span></div>
+      </div>
+      <div class="row">
+        <button class="btn" id="r-review">Review Answers</button>
+        <button class="btn alt" id="r-retry">Retry Test</button>
+        <button class="btn alt" id="r-home">All Tests</button>
+      </div>
+    </div>
+    <div id="review"></div>
+  </section>
+</main>
+
+<script src="data/registry.js"></script>
+<script src="app.js"></script>
+</body>
+</html>
