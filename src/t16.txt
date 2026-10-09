@@ -1,51 +1,51 @@
-# Test 16 - Everyday science, health and IT
-The SI unit of force is:|Newton|Joule|Watt|Pascal|1 newton is the force needed to accelerate 1 kg at 1 m/s². Joule is the unit of energy, watt of power and pascal of pressure.
-The SI unit of electric current is:|Ampere|Volt|Ohm|Coulomb|Volt is potential difference, ohm is resistance (Ohm's law V = IR) and coulomb is charge.
-The speed of light in vacuum is approximately:|3 × 10^8 m/s|3 × 10^6 m/s|3 × 10^10 m/s|300 m/s|Light takes about 8 minutes to travel from the Sun to the Earth.
-Sound travels fastest in:|Solids|Liquids|Gases|Vacuum|Sound needs a medium. It travels faster in solids than in liquids and gases because particles are closely packed.
-The chemical formula of water is:|H2O|CO2|NaCl|O2|Water is formed by two hydrogen atoms and one oxygen atom. Pure water has pH 7.
-The pH of a neutral solution is:|7|0|14|1|pH less than 7 is acidic and more than 7 is basic. Lemon juice is acidic; soap is basic.
-The most abundant gas in Earth's atmosphere is:|Nitrogen (78%)|Oxygen|Carbon dioxide|Argon|Oxygen forms about 21%. Argon is about 0.93% and CO2 about 0.04%.
-The gas responsible for the greenhouse effect mainly emitted by burning fossil fuels is:|Carbon dioxide|Helium|Neon|Oxygen|Methane and nitrous oxide are also greenhouse gases. The ozone layer protects from UV radiation.
-Common salt is chemically:|Sodium chloride|Sodium carbonate|Potassium chloride|Calcium chloride|NaCl is used in food preservation and as a source for chlorine and caustic soda.
-Which metal is liquid at room temperature?|Mercury|Iron|Sodium|Zinc|Bromine is the only non-metal liquid at room temperature.
-The hardest natural substance is:|Diamond|Graphite|Quartz|Iron|Diamond and graphite are allotropes of carbon.
-The chemical symbol of gold is:|Au|Ag|Fe|Gd|Silver is Ag, iron is Fe, sodium is Na and potassium is K.
-The lightest element is:|Hydrogen|Helium|Lithium|Oxygen|Hydrogen has atomic number 1. Helium is the second lightest.
-Which vitamin is produced in the skin by sunlight?|Vitamin D|Vitamin C|Vitamin A|Vitamin K|Deficiency of Vitamin D causes rickets in children and osteomalacia in adults.
-Deficiency of Vitamin C causes:|Scurvy|Rickets|Night blindness|Beriberi|Vitamin A deficiency causes night blindness; B1 (thiamine) deficiency causes beriberi.
-Iron deficiency causes:|Anaemia|Goitre|Scurvy|Rickets|Iodine deficiency causes goitre. Iron and iodine fortification are important child nutrition programmes.
-The powerhouse of the cell is:|Mitochondria|Nucleus|Ribosome|Golgi body|Mitochondria produce ATP. The nucleus contains DNA and controls cell activity.
-The human body has how many chromosomes?|46 (23 pairs)|23|44|48|Down syndrome results from an extra chromosome 21. Sex chromosomes are XX for females and XY for males.
-The largest organ of the human body is:|Skin|Liver|Heart|Lung|The liver is the largest internal organ. The skin protects against infection and regulates temperature.
-The normal human body temperature is:|37°C (98.6°F)|35°C|40°C|30°C|Fever is generally above 38°C. High fever in infants needs urgent medical attention.
-The normal adult heart rate is about:|60–100 beats per minute|10–20|150–200|250|Newborns have a higher heart rate (100–160 bpm).
-Which blood group is the universal donor?|O negative|AB positive|A positive|B negative|AB positive is the universal recipient. Rh factor is named after Rhesus monkey.
-Which part of the blood helps in clotting?|Platelets|Red blood cells|White blood cells|Plasma only|RBCs carry oxygen via haemoglobin. WBCs fight infection.
-Insulin is produced by the:|Pancreas|Liver|Kidney|Stomach|Lack of insulin causes diabetes mellitus. World Diabetes Day is on 14 November.
-The 'master gland' of the human body is:|Pituitary|Thyroid|Adrenal|Pancreas|It is located at the base of the brain and controls other endocrine glands.
-Dengue fever is transmitted by:|Aedes mosquito|Anopheles mosquito|Housefly|Rat flea|Malaria is transmitted by female Anopheles mosquito. Cleaning stagnant water prevents mosquito breeding.
-Which disease is caused by a virus?|Polio|Typhoid|Tuberculosis|Cholera|Typhoid, TB and cholera are bacterial diseases. Polio is caused by poliovirus and prevented by vaccine.
-Tuberculosis is caused by:|Mycobacterium tuberculosis|Plasmodium|Vibrio cholerae|Salmonella|TB mainly affects lungs. DOTS treatment is used for TB.
-Malaria is caused by:|Plasmodium (a protozoan)|Bacteria|Virus|Fungus|Plasmodium is transmitted by the female Anopheles mosquito.
-Oral Rehydration Salts (ORS) are used to treat:|Dehydration due to diarrhoea|Fever|Cough|Headache|Diarrhoea is a leading cause of child mortality. ORS and zinc are standard treatment.
-Photosynthesis occurs in the:|Chloroplasts of green plants|Mitochondria|Roots|Bark|Plants absorb CO2 and release oxygen in sunlight.
-Plants release oxygen during:|Photosynthesis|Respiration|Transpiration|Digestion|Respiration releases carbon dioxide.
-The process of conversion of milk to curd is due to:|Lactobacillus bacteria|Yeast|Virus|Fungus|It is an example of useful bacteria. Yeast is used for fermentation in bread.
-Which planet is known as the Red Planet?|Mars|Venus|Jupiter|Saturn|Venus is the hottest planet. Jupiter is the largest planet. Mercury is closest to the Sun.
-The largest planet in the solar system is:|Jupiter|Saturn|Earth|Neptune|Jupiter has the Great Red Spot. Saturn has prominent rings.
-The Earth takes how long to complete one revolution around the Sun?|365.25 days|24 hours|30 days|12 hours|Rotation takes 24 hours and causes day and night; revolution causes seasons.
-The nearest star to Earth is:|The Sun|Proxima Centauri|Sirius|Polaris|Proxima Centauri is the nearest star after the Sun at about 4.2 light years.
-A lunar eclipse occurs when:|Earth comes between the Sun and the Moon|Moon comes between Sun and Earth|Sun is behind Mars|Earth is far from the Sun|A solar eclipse occurs when the Moon is between the Sun and the Earth.
-Which part of the eye controls the amount of light entering?|Iris (pupil)|Retina|Cornea|Lens|The retina has rods and cones. Myopia is corrected by concave lenses; hypermetropia by convex lenses.
-Which lens is used to correct short-sightedness (myopia)?|Concave lens|Convex lens|Bifocal only|Cylindrical lens|Concave diverges light rays so the image falls on the retina.
-The device used to measure atmospheric pressure is:|Barometer|Thermometer|Hygrometer|Anemometer|Hygrometer measures humidity; anemometer measures wind speed; seismograph measures earthquakes.
-Richter scale measures:|Earthquake magnitude|Wind speed|Temperature|Rainfall|Seismographs record earthquakes. The 2005 earthquake in Pakistan had magnitude 7.6.
-Which of the following is a renewable source of energy?|Solar|Coal|Natural gas|Petroleum|Pakistan is working to increase solar, wind and hydropower share.
-Which fuel is used in CNG?|Methane|Propane|Butane|Hydrogen|Compressed natural gas is mainly methane.
-The full form of CPU is:|Central Processing Unit|Central Program Unit|Computer Personal Unit|Control Processing Utility|The CPU is the brain of the computer and executes instructions.
-The full form of RAM is:|Random Access Memory|Read Access Memory|Run Allocated Memory|Rapid Action Memory|RAM is volatile memory, its content disappears when power is off. ROM is non-volatile.
-1 Byte equals:|8 bits|4 bits|16 bits|1024 bits|1 KB = 1024 bytes; 1 MB = 1024 KB; 1 GB = 1024 MB.
-Which of the following is an input device?|Keyboard|Monitor|Printer|Speaker|Output devices display results. A touchscreen is both input and output.
-HTTP stands for:|HyperText Transfer Protocol|High Text Transfer Program|HyperTool Transfer Page|Home Text Transmission Protocol|HTTPS is the secure version. Websites use URLs.
-A computer virus is:|A malicious program that can replicate and damage files|A hardware part|A website|A keyboard|Antivirus software and safe browsing help protect devices. Children need online safety education.
+# Test 16 - Pakistan: history, political firsts and constitutional milestones
+Who was the first Prime Minister of Pakistan?|Liaquat Ali Khan|Khawaja Nazimuddin|Iskander Mirza|Muhammad Ali Bogra|Liaquat Ali Khan served from August 1947 until his assassination at Company Bagh, Rawalpindi on 16 October 1951. The park was later renamed Liaquat Bagh.
+Who was the first President of Pakistan?|Iskander Mirza|Ayub Khan|Ghulam Muhammad|Yahya Khan|Iskander Mirza became the first President under the 1956 Constitution; before that the head of state was the Governor-General.
+Who was the first Governor-General of Pakistan?|Muhammad Ali Jinnah|Khawaja Nazimuddin|Ghulam Muhammad|Iskander Mirza|Jinnah took the oath on 14-15 August 1947 and also was the first President of the Constituent Assembly.
+Who was the first Finance Minister of Pakistan?|Malik Ghulam Muhammad|Chaudhry Muhammad Ali|Liaquat Ali Khan|Zafarullah Khan|Ghulam Muhammad later became Governor-General (1951-55). Ch. Muhammad Ali was Secretary-General and later PM.
+Who was the first Foreign Minister of Pakistan?|Sir Zafarullah Khan|Liaquat Ali Khan|Hamid Nasir|Sardar Abdur Rab Nishtar|Zafarullah Khan represented Pakistan at the UN and later became a judge at the ICJ.
+Who was the first Pakistani Commander-in-Chief of the Pakistan Army?|General Muhammad Ayub Khan|General Sir Frank Messervy|General Yahya Khan|General Gul Hassan|Ayub Khan took over in January 1951, succeeding the British General Douglas Gracey.
+Who was the first Governor of the State Bank of Pakistan?|Zahid Hussain|Aziz Ahmad|Ghulam Muhammad|Muhammad Ali|The SBP began operations on 1 July 1948; Quaid-e-Azam inaugurated it on that date.
+Who was the first Chairman of the Senate of Pakistan?|Habibullah Khan Marwat|Wasim Sajjad|Muhammad Mian Soomro|Nayyar Bokhari|The Senate was formed under the 1973 Constitution. Habibullah Khan was its first Chairman.
+Who was the first woman Speaker of the National Assembly of Pakistan?|Dr Fehmida Mirza|Benazir Bhutto|Asma Jahangir|Nasim Wali Khan|She served 2008-2013.
+The Objectives Resolution was passed on:|12 March 1949|23 March 1940|14 August 1947|10 April 1973|It was moved by Liaquat Ali Khan. It later became a substantive part of the Constitution via Article 2A.
+The first Martial Law in Pakistan was imposed on:|7 October 1958|5 July 1977|12 October 1999|25 March 1969|President Iskander Mirza abrogated the 1956 Constitution; Ayub Khan became Chief Martial Law Administrator and removed Mirza within 20 days.
+General Zia-ul-Haq imposed Martial Law on:|5 July 1977|7 October 1958|12 October 1999|25 March 1969|It was called Operation Fair Play and ousted Z.A. Bhutto.
+General Pervez Musharraf took power on:|12 October 1999|5 July 1977|7 October 1958|25 March 1969|He ousted Nawaz Sharif's government after the Kargil conflict.
+The first general election in Pakistan on the basis of adult franchise was held in:|December 1970|1956|1962|1977|The Awami League won 160 of 162 seats in East Pakistan; the PPP won 81 in West Pakistan.
+Which party won an absolute majority in the 1970 elections?|Awami League|Pakistan Peoples Party|Muslim League|Jamaat-e-Islami|Despite its majority, power was not transferred, which led to the 1971 crisis.
+The 1971 war ended on:|16 December 1971|14 August 1971|26 March 1971|3 December 1971|Dhaka fell on 16 December. The Hamoodur Rahman Commission inquired into the debacle.
+The Agartala Conspiracy Case (1968) was linked to:|Sheikh Mujibur Rahman|Z.A. Bhutto|Wali Khan|Ayub Khan|The case alleged a conspiracy with India to separate East Pakistan. It was withdrawn in 1969.
+The Six Points of Sheikh Mujib were presented in:|1966 at Lahore|1947|1971|1956|They demanded provincial autonomy and were presented at a conference of opposition parties in Lahore.
+The Tashkent Declaration was signed in:|January 1966|September 1965|July 1972|February 1999|It ended the 1965 war and was mediated by the Soviet Union.
+The Lahore Declaration was signed by Nawaz Sharif and Atal Bihari Vajpayee in:|February 1999|1972|1966|2001|It was followed by the Kargil conflict in May-July 1999.
+The Kargil conflict took place in:|1999|1965|1971|2008|It was fought in the Kargil sector of Jammu and Kashmir.
+The Pakistan National Alliance (PNA) launched a movement in 1977 against the government of:|Zulfikar Ali Bhutto|Ayub Khan|Yahya Khan|Zia-ul-Haq|The PNA alleged rigging in the March 1977 elections.
+Z.A. Bhutto was hanged on:|4 April 1979|5 July 1977|16 December 1971|12 October 1999|He was convicted in a murder case; his book 'If I Am Assassinated' was written in jail.
+The Eighth Amendment (1985) is known for giving the President power to:|Dissolve the National Assembly (Article 58(2)(b))|Abolish Senate|Create provinces|Ban parties|It was removed by the 13th Amendment (1997), restored by the 17th (2003) and finally removed by the 18th (2010).
+The Legal Framework Order (LFO) was issued in:|2002|1977|1985|1999|It was issued by Musharraf before the October 2002 elections and was later validated by the 17th Amendment.
+The 17th Amendment (2003) restored the President's power to:|Dissolve the National Assembly|Impose martial law|Pass money bills|Appoint Chief Justice|It was passed under the Musharraf government and removed in 2010.
+The 18th Amendment was passed in:|April 2010|1985|1997|2003|It was passed under PM Yousaf Raza Gilani and President Asif Ali Zardari. It renamed NWFP to Khyber Pakhtunkhwa and abolished the Concurrent List.
+Baghdad Pact, which Pakistan joined, was signed in:|1955|1948|1965|1971|It was later renamed CENTO. Pakistan joined SEATO in 1954.
+Pakistan became a member of SEATO in:|1954|1947|1971|1990|SEATO (South-East Asia Treaty Organization) was created in Manila in 1954.
+Pakistan left the Commonwealth in 1972 and rejoined in:|1989|1980|2001|1999|Its membership was suspended in 1999 and 2007 due to military takeovers.
+Pakistan became a republic on:|23 March 1956|14 August 1947|11 September 1948|10 April 1973|The Dominion status ended with the enforcement of the 1956 Constitution.
+Islamabad was selected as the capital in:|1959-60 (construction began 1961)|1947|1973|1985|Karachi was first capital; Rawalpindi served as interim capital. The Greek planner C.A. Doxiadis designed Islamabad.
+The Pakistan Atomic Energy Commission was set up in:|1956|1947|1974|1998|The first nuclear power plant, KANUPP in Karachi, started in 1972.
+Pakistan's first satellite Badr-1 was launched in:|1990|1960|2000|2011|It was launched from China. PakSat-1R and later satellites followed.
+Dr Abdus Salam won the Nobel Prize in Physics in:|1979|1968|1990|2014|He shared the prize for electroweak unification and was the first Pakistani Nobel laureate.
+The first Muslim woman Prime Minister in the world was:|Benazir Bhutto|Tansu Ciller|Sheikh Hasina|Khaleda Zia|She became PM of Pakistan in December 1988 at the age of 35.
+Benazir Bhutto was assassinated on:|27 December 2007|27 January 2008|2 May 2011|10 April 1979|She was killed after a rally at Liaquat Bagh, Rawalpindi.
+The Lawyers' Movement began in March 2007 after the suspension of:|Chief Justice Iftikhar Muhammad Chaudhry|Chief Justice Saeed-uz-Zaman Siddiqui|Chief Justice Anwar-ul-Haq|Chief Justice Sajjad Ali Shah|The movement led to his restoration in 2009.
+The word 'Pakistan' was coined by:|Chaudhry Rahmat Ali|Allama Iqbal|Jinnah|Sir Syed|It appeared in the pamphlet 'Now or Never' (1933), published at Cambridge.
+The Cripps Mission came to India in:|1942|1946|1935|1930|It offered Dominion status after WWII but was rejected by both Congress and League.
+The Simla Conference was held in:|1945|1946|1942|1947|Viceroy Wavell convened it; it failed because of the dispute over Muslim representation.
+The Cabinet Mission arrived in India in:|1946|1942|1940|1947|Its Plan envisaged a loose federation but was not implemented.
+Direct Action Day was observed by the Muslim League on:|16 August 1946|14 August 1947|23 March 1940|3 June 1947|It was followed by riots in Calcutta.
+The last Viceroy of British India was:|Lord Mountbatten|Lord Wavell|Lord Linlithgow|Lord Irwin|Mountbatten announced the Partition plan on 3 June 1947.
+The Indian Independence Act was passed by the British Parliament in:|July 1947|June 1947|August 1947|January 1948|It received Royal Assent on 18 July 1947.
+Liaquat Ali Khan presented the so-called 'Poor Man's Budget' in 1947 as:|Finance Minister in the Interim Government|Prime Minister of Pakistan|Governor-General|Viceroy|It taxed the wealthy industrialists, mostly Hindus, and angered Congress.
+The first Constituent Assembly of Pakistan met at Karachi on:|10 August 1947|14 August 1947|11 September 1948|23 March 1956|Jinnah was elected its President. The famous speech of 11 August 1947 was delivered there.
+The first Constitution of Pakistan was drafted by the:|Second Constituent Assembly under Chaudhry Muhammad Ali|Jinnah|Ayub Khan|Zia-ul-Haq|The 1956 Constitution gave parity between East and West Pakistan and introduced One Unit.
+The One Unit scheme of West Pakistan was announced in:|1955|1947|1970|1962|It merged the provinces of West Pakistan into one unit, which was dissolved by Yahya Khan in 1970.
+The Government of India Act 1935 introduced which feature in the provinces?|Provincial autonomy|Direct rule|Abolition of legislatures|Universal adult franchise|It set up provincial autonomy and the 1937 elections.

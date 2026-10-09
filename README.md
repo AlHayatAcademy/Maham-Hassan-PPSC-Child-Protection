@@ -1,36 +1,23 @@
-# PPSC Child Protection Officer (BPS-17) – 1000 MCQ Practice Site
+# PPSC Child Protection Officer (BPS-17) – 2,100 MCQ Practice Site
 
-20 practice tests × 50 MCQs (A–D options, PPSC style). Instant feedback, a full explanation after every attempt, score and answer review, timer, progress saved in your browser. No build step or dependencies; it is a static site.
+42 practice tests × 50 MCQs (A–D options, PPSC style), plus a **100-MCQ / 90-minute exam simulator** (two blueprints, −0.25 per wrong answer) and a **pattern & strategy** page. Instant feedback and an explanation after every attempt, score and review, progress saved in your browser. Static site: no build step or dependencies.
 
 ## Deploy on GitHub Pages
-1. Create a new repository and upload **all files from this folder** (keep `data/`, `src/`, `.nojekyll`).
-2. Repo → **Settings → Pages** → Source: *Deploy from a branch* → Branch: `main` / `(root)` → Save.
-3. Open `https://<your-username>.github.io/<repo-name>/` after a minute.
+1. Create a repo and upload every file in this folder (keep the `data/` folder).
+2. Settings → Pages → Deploy from branch → `main` / root.
+3. Open the URL GitHub shows.
 
-Local preview: `python3 -m http.server 8000` and open http://localhost:8000.
-
-## Test list
-| # | Topic |
-|---|-------|
-| 1–4 | Child protection law (Punjab, UNCRC, Pakistan laws) |
-| 5–6 | Social work I & II / welfare / research |
-| 7 | Psychology and child development |
-| 8 | Sociology |
-| 9 | Criminology and juvenile delinquency |
-| 10 | Subject mock (scenarios) |
-| 11–13 | Pakistan Studies, Constitution and governance, Islamiat |
-| 14–15 | Current affairs (Pakistan, world) |
-| 16–19 | Science and IT, English, Urdu, Mental ability and maths |
-| 20 | Full mock paper |
+## What is inside
+- Tests 1–3: Punjab Destitute and Neglected Children Act 2004 (text-based, section by section).
+- Tests 4–13: child rights/law, child protection practice, social work, psychology, sociology, criminology.
+- Tests 14–28: Pakistan Studies, Islamic Studies, current affairs, world geography, GK.
+- Tests 29–42: science, computer, English, Urdu, maths and reasoning.
 
 ## Editing questions
-Questions live in `src/tNN.txt`, one per line:
+Questions live in `src/tNN.txt` (pipe-separated): `question|correct|wrong1|wrong2|wrong3|explanation`. Run `python3 build.py` to regenerate `data/` (it shuffles option order, validates 50 per test, and reports problems).
 
-```
-question|correct answer|wrong 1|wrong 2|wrong 3|explanation
-@question|A|B|C|D|answerIndex(0-3)|explanation      (fixed option order)
-```
-Then run `python3 build.py` to regenerate `data/*.js` (it checks that each test has exactly 50 questions, and shuffles answer positions with a fixed seed).
-
-## Important
-These are predicted questions, not official past papers. Verify law sections, helpline numbers, office-holders and current affairs against the bare Acts, the PPSC syllabus/advertisement and recent news before the exam.
+## Honest caveats
+- Questions are predictions modelled on PPSC style, not leaked papers.
+- Verify the Act on punjablaws.gov.pk and current affairs (2025–26) on a news source.
+- Check the official syllabus for this post on ppsc.gop.pk.
+- Known source conflicts are listed on the Pattern & Strategy page.

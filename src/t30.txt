@@ -1,0 +1,51 @@
+# Test 30 - Everyday Science II: physics and chemistry
+The SI unit of force is the:|Newton|Joule|Watt|Pascal|F = ma; one newton accelerates one kilogram by one metre per second squared.
+The SI unit of energy is the:|Joule|Newton|Watt|Hertz|Work and energy both use joules.
+The SI unit of power is the:|Watt|Joule|Newton|Volt|One watt is one joule per second.
+The SI unit of pressure is the:|Pascal|Newton|Bar|Torr|One pascal is one newton per square metre.
+The SI unit of frequency is the:|Hertz|Decibel|Watt|Tesla|One hertz is one cycle per second.
+The SI unit of electric current is the:|Ampere|Volt|Ohm|Coulomb|It is measured with an ammeter.
+The SI unit of electric potential difference is the:|Volt|Ampere|Ohm|Watt|It is measured with a voltmeter.
+The SI unit of resistance is the:|Ohm|Volt|Ampere|Siemens|Ohm's law states V = IR.
+The SI unit of sound loudness is generally given in:|Decibel|Hertz|Watt|Tesla|The decibel is a logarithmic unit.
+The SI unit of luminous intensity is the:|Candela|Lumen|Lux|Kelvin|Lumen is the unit of luminous flux; lux is illuminance.
+The SI unit of temperature is the:|Kelvin|Celsius|Fahrenheit|Joule|Absolute zero is 0 K, or -273.15 C.
+The speed of light in a vacuum is about:|300,000 km per second|3,000 km per second|30,000 km per second|3 million km per second|It is 299,792 km/s.
+The speed of sound in air is about:|340 m per second|3,400 m per second|34 m per second|3 km per second|Sound cannot travel in a vacuum.
+Sound waves are:|Longitudinal waves|Transverse waves|Electromagnetic waves|Radio waves|They need a medium to travel.
+Light waves are:|Transverse electromagnetic waves|Longitudinal waves|Sound waves|Mechanical waves|They can travel through a vacuum.
+The bending of light when passing from one medium to another is called:|Refraction|Reflection|Diffraction|Dispersion|Dispersion is splitting of white light into colours, as in a prism.
+The splitting of white light into seven colours is called:|Dispersion|Refraction|Reflection|Interference|VIBGYOR: violet, indigo, blue, green, yellow, orange, red.
+The colour with the longest wavelength in the visible spectrum is:|Red|Violet|Blue|Green|Violet has the shortest wavelength.
+The lens used to correct short-sightedness (myopia) is:|Concave lens|Convex lens|Bifocal lens|Cylindrical lens|A convex lens corrects long-sightedness (hypermetropia).
+A mirror used as a rear-view mirror in vehicles is:|Convex mirror|Concave mirror|Plane mirror|Cylindrical mirror|It gives a wider field of view.
+A mirror used by dentists and in shaving mirrors is:|Concave mirror|Convex mirror|Plane mirror|Spherical only|It forms magnified images at close distance.
+Newton's first law of motion is the law of:|Inertia|Acceleration|Action and reaction|Gravitation|An object stays at rest or in uniform motion unless acted on by a force.
+Newton's third law states that:|Every action has an equal and opposite reaction|F = ma|Objects tend to stay at rest|Gravity attracts all masses|Rockets work on this principle.
+The acceleration due to gravity on Earth is approximately:|9.8 m/s squared|98 m/s squared|0.98 m/s squared|1 m/s squared|It is about 1/6 of this on the Moon.
+Weight is measured in:|Newtons|Kilograms|Litres|Metres|Mass is measured in kilograms.
+The device used to measure atmospheric pressure is a:|Barometer|Thermometer|Hygrometer|Anemometer|A hygrometer measures humidity; an anemometer wind speed.
+The device used to measure earthquakes is a:|Seismograph|Barometer|Hydrometer|Speedometer|The Richter scale measures magnitude.
+The device used to measure the humidity of air is a:|Hygrometer|Barometer|Hydrometer|Lactometer|A lactometer tests milk purity.
+Which of the following is a good conductor of electricity?|Copper|Rubber|Wood|Glass|Silver is the best conductor, but copper is widely used.
+The fuse wire in a circuit is made of material with:|Low melting point|High melting point|High resistance only|No resistance|It melts and breaks the circuit when overloaded.
+Domestic electricity supply in Pakistan is:|220-240 volts, 50 Hz|110 volts, 60 Hz|440 volts, 100 Hz|12 volts, 50 Hz|The USA uses 120 V, 60 Hz.
+Which gas is most abundant in the Earth's atmosphere?|Nitrogen (78 percent)|Oxygen|Carbon dioxide|Argon|Oxygen is about 21 percent.
+The chemical symbol for sodium is:|Na|S|So|Sd|Potassium is K; iron is Fe; gold is Au.
+The chemical symbol for potassium is:|K|P|Po|Pt|From the Latin 'kalium'.
+The chemical symbol for iron is:|Fe|Ir|In|I|From the Latin 'ferrum'.
+The chemical symbol for gold is:|Au|Ag|Go|Gd|Ag is silver (argentum).
+The chemical name of common salt is:|Sodium chloride|Sodium carbonate|Calcium chloride|Potassium chloride|Its formula is NaCl.
+The chemical name of baking soda is:|Sodium bicarbonate|Sodium carbonate|Calcium carbonate|Sodium chloride|Washing soda is sodium carbonate.
+The main constituent of marble and limestone is:|Calcium carbonate|Calcium chloride|Sodium chloride|Calcium oxide|Chemical formula CaCO3.
+The pH of pure water is:|7|1|14|0|Less than 7 is acidic; more than 7 is basic.
+Lemon juice is acidic because of:|Citric acid|Acetic acid|Lactic acid|Formic acid|Vinegar contains acetic acid and sour milk lactic acid.
+The gas used in fire extinguishers is mostly:|Carbon dioxide|Oxygen|Nitrogen only|Hydrogen|It displaces oxygen and cools the fire.
+The lightest gas is:|Hydrogen|Helium|Oxygen|Nitrogen|Helium is the second lightest and is used in balloons.
+The gas responsible for the greenhouse effect most is generally considered:|Carbon dioxide|Oxygen|Nitrogen|Argon|Methane and water vapour also contribute.
+The ozone layer protects the Earth from:|Ultraviolet radiation|Infrared radiation|Sound|Cosmic dust|It is located in the stratosphere.
+The metal that is liquid at room temperature is:|Mercury|Lead|Zinc|Sodium|Bromine is the only liquid non-metal.
+The alloy of copper and zinc is:|Brass|Bronze|Steel|Solder|Bronze is copper and tin; steel is iron and carbon.
+The rusting of iron needs:|Oxygen and moisture|Only oxygen|Only water|Nitrogen|It is an oxidation process producing iron oxide.
+Which colour of light is scattered most and makes the sky blue?|Blue|Red|Yellow|Green|Shorter wavelengths scatter more (Rayleigh scattering).
+The unit of work is the:|Joule|Newton|Watt|Pascal|Work = force x distance.

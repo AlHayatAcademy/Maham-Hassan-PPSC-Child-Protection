@@ -1,0 +1,51 @@
+# Test 27 - General Knowledge I: inventions, discoveries, books, authors and abbreviations
+The telephone was invented by:|Alexander Graham Bell|Thomas Edison|Marconi|Nikola Tesla|Bell patented the telephone in 1876.
+The electric bulb (practical incandescent) was developed by:|Thomas Alva Edison|Isaac Newton|Faraday|Volta|Edison developed a commercially practical bulb in 1879.
+The radio (wireless telegraphy) was developed by:|Guglielmo Marconi|Bell|Edison|Tesla|Marconi won the Nobel Prize in Physics in 1909.
+The aeroplane was invented by:|The Wright Brothers (1903)|Newton|Edison|Marconi|Their first flight was at Kitty Hawk, North Carolina.
+The television was first demonstrated by:|John Logie Baird|Edison|Marconi|Bell|Baird demonstrated a working television in 1926.
+The printing press with movable type was invented by:|Johannes Gutenberg|William Caxton|Galileo|Newton|Gutenberg's press (about 1440) helped spread books in Europe.
+The steam engine was improved by:|James Watt|Isaac Newton|Edison|Faraday|Watt's improvements drove the Industrial Revolution.
+Penicillin was discovered by:|Alexander Fleming|Louis Pasteur|Robert Koch|Edward Jenner|Fleming discovered it in 1928.
+The vaccine for smallpox was developed by:|Edward Jenner|Louis Pasteur|Fleming|Koch|Jenner introduced it in 1796.
+The rabies vaccine was developed by:|Louis Pasteur|Jenner|Fleming|Salk|Pasteur also developed pasteurisation.
+The polio vaccine was developed by:|Jonas Salk|Pasteur|Jenner|Koch|Salk's vaccine was announced in 1955; Sabin developed the oral vaccine.
+The law of gravitation was formulated by:|Isaac Newton|Einstein|Galileo|Kepler|Newton's Principia was published in 1687.
+The theory of relativity was proposed by:|Albert Einstein|Newton|Bohr|Hawking|Einstein won the 1921 Nobel Prize for the photoelectric effect.
+The theory of evolution by natural selection was proposed by:|Charles Darwin|Gregor Mendel|Lamarck|Pasteur|His book 'On the Origin of Species' appeared in 1859.
+The father of genetics is:|Gregor Mendel|Darwin|Pasteur|Watson|Mendel experimented on pea plants.
+The structure of DNA was described by:|Watson and Crick (1953)|Mendel|Darwin|Pasteur|Rosalind Franklin's X-ray work contributed.
+The discoverer of X-rays is:|Wilhelm Roentgen|Marie Curie|Rutherford|Bohr|He received the first Nobel Prize in Physics in 1901.
+The discoverer of radium and polonium is:|Marie Curie|Rutherford|Bohr|Roentgen|She won Nobel prizes in both Physics and Chemistry.
+The discoverer of the electron is:|J.J. Thomson|Rutherford|Bohr|Chadwick|Rutherford discovered the nucleus; Chadwick the neutron.
+The father of modern chemistry is:|Antoine Lavoisier|Boyle|Dalton|Mendeleev|Lavoisier named oxygen and hydrogen.
+The Periodic Table was created by:|Dmitri Mendeleev|Dalton|Bohr|Lavoisier|He arranged elements by atomic weight in 1869.
+The compass was first used by the:|Chinese|Greeks|Romans|Egyptians|The Chinese also invented paper, gunpowder and printing.
+The first person to travel in space was:|Yuri Gagarin (1961)|Neil Armstrong|Alan Shepard|John Glenn|He orbited the Earth in Vostok 1.
+The first man on the moon was:|Neil Armstrong (1969)|Buzz Aldrin|Yuri Gagarin|Alan Shepard|Apollo 11 landed on 20 July 1969.
+The first artificial satellite was:|Sputnik 1 (1957)|Explorer 1|Apollo 11|Vostok 1|It was launched by the Soviet Union on 4 October 1957.
+The first woman in space was:|Valentina Tereshkova|Sally Ride|Kalpana Chawla|Sunita Williams|She flew in 1963.
+The author of 'Hamlet' is:|William Shakespeare|Charles Dickens|John Milton|Bernard Shaw|Shakespeare was born at Stratford-upon-Avon.
+The author of 'Paradise Lost' is:|John Milton|Chaucer|Wordsworth|Dryden|It was published in 1667.
+The author of 'The Canterbury Tales' is:|Geoffrey Chaucer|Shakespeare|Milton|Spenser|Chaucer is called the Father of English poetry.
+The author of 'A Tale of Two Cities' is:|Charles Dickens|Jane Austen|Thomas Hardy|George Eliot|It is set in London and Paris.
+The author of 'Pride and Prejudice' is:|Jane Austen|Charlotte Bronte|George Eliot|Virginia Woolf|It was published in 1813.
+The author of 'Animal Farm' is:|George Orwell|Aldous Huxley|H.G. Wells|Dickens|His novel '1984' is also famous.
+The author of 'The Old Man and the Sea' is:|Ernest Hemingway|John Steinbeck|Mark Twain|William Faulkner|He won the Nobel Prize in Literature in 1954.
+The author of 'The Prince' is:|Niccolo Machiavelli|Plato|Aristotle|Hobbes|It discusses statecraft.
+The author of 'The Republic' is:|Plato|Aristotle|Socrates|Cicero|Aristotle was Plato's student and Alexander's teacher.
+The author of 'Das Kapital' is:|Karl Marx|Adam Smith|Keynes|Lenin|It was published in 1867.
+The author of 'The Wealth of Nations' is:|Adam Smith|Keynes|Marx|Ricardo|He is known as the father of economics; the book appeared in 1776.
+The author of 'The Social Contract' is:|Jean-Jacques Rousseau|Locke|Hobbes|Montesquieu|Hobbes wrote 'Leviathan'; Locke wrote 'Two Treatises of Government'.
+The author of 'Muqaddimah' is:|Ibn Khaldun|Ibn Sina|Ibn Rushd|Al-Ghazali|Ibn Khaldun is called the father of sociology.
+The author of 'Kitab al-Shifa' (medicine/philosophy) is:|Ibn Sina (Avicenna)|Al-Razi|Ibn Rushd|Al-Farabi|His 'Canon of Medicine' was taught in Europe for centuries.
+The author of 'Tuzk-e-Babri' is:|Babur|Akbar|Jahangir|Abul Fazl|It is the memoir of the first Mughal emperor.
+The author of 'Ain-e-Akbari' is:|Abul Fazl|Faizi|Badauni|Birbal|It describes Akbar's administration.
+The abbreviation CNIC stands for:|Computerised National Identity Card|Central National Identity Card|Citizen National ID Code|Computer National ID Chip|NADRA issues it.
+The abbreviation FIR stands for:|First Information Report|Final Investigation Report|First Inquiry Record|Federal Investigation Report|It is recorded under Section 154 CrPC.
+The abbreviation CPO stands for (in this post):|Child Protection Officer|Chief Police Officer|Central Probation Officer|Civil Protection Order|CPOs work under the Child Protection & Welfare Bureau.
+The abbreviation NGO stands for:|Non-Governmental Organisation|National Government Office|Non-General Order|National Group of Officers|NGOs are not run by governments.
+The abbreviation NIC (in computing) stands for:|Network Interface Card|National Identity Card|Net Info Code|New Internet Connection|It connects a computer to a network.
+The abbreviation HIV stands for:|Human Immunodeficiency Virus|Human Infection Virus|High Immune Value|Human Internal Virus|It causes AIDS.
+The abbreviation UNHCR stands for:|United Nations High Commissioner for Refugees|United Nations Health Committee|UN Humanitarian Council|United Nations Higher Court|It is headquartered in Geneva.
+The abbreviation SDG stands for:|Sustainable Development Goals|Social Defence Group|State Development Grant|Standard Data Group|There are 17 SDGs adopted by the UN in 2015, to be achieved by 2030.

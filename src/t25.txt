@@ -1,0 +1,51 @@
+# Test 25 - World Geography I: continents, oceans, countries, capitals, rivers and mountains
+The largest continent by area is:|Asia|Africa|North America|Europe|Asia covers about 44.5 million sq km and has the largest population.
+The smallest continent by area is:|Australia (Oceania)|Europe|Antarctica|South America|Australia is about 8.5 million sq km.
+The largest ocean of the world is:|Pacific Ocean|Atlantic Ocean|Indian Ocean|Arctic Ocean|The Pacific covers about a third of the Earth's surface and contains the Mariana Trench.
+The deepest point on Earth is:|Mariana Trench (Challenger Deep)|Puerto Rico Trench|Java Trench|Tonga Trench|Its depth is about 10,900 m in the western Pacific.
+The highest mountain peak in the world is:|Mount Everest (8,849 m)|K2|Kangchenjunga|Lhotse|Mount Everest is on the Nepal-China border.
+The longest river in the world is generally given as:|The Nile|The Amazon|The Yangtze|The Mississippi|The Nile is about 6,650 km; some measurements place the Amazon as longer.
+The largest desert (hot) in the world is:|Sahara|Gobi|Kalahari|Thar|The Sahara covers about 9.2 million sq km in North Africa. Antarctica is the largest desert overall.
+The largest country in the world by area is:|Russia|Canada|China|USA|Russia covers about 17.1 million sq km.
+The second largest country by area is:|Canada|China|USA|Brazil|Canada has the longest coastline in the world.
+The most populous country in the world is:|India|China|USA|Indonesia|India overtook China in 2023.
+The smallest country in the world is:|Vatican City|Monaco|Nauru|San Marino|It covers around 0.44 sq km and lies within Rome.
+The capital of Afghanistan is:|Kabul|Kandahar|Herat|Mazar-e-Sharif|It lies on the Kabul River.
+The capital of Bangladesh is:|Dhaka|Chittagong|Sylhet|Khulna|Formerly Dacca; Bangladesh became independent in 1971.
+The capital of Sri Lanka (legislative) is:|Sri Jayawardenepura Kotte|Colombo|Kandy|Galle|Colombo is the commercial capital.
+The capital of Nepal is:|Kathmandu|Pokhara|Lhasa|Thimphu|It lies in the Kathmandu Valley.
+The capital of Bhutan is:|Thimphu|Paro|Kathmandu|Dhaka|Bhutan measures Gross National Happiness.
+The capital of Nigeria is:|Abuja|Lagos|Kano|Ibadan|Lagos is the largest city.
+The capital of South Africa (executive) is:|Pretoria|Cape Town|Johannesburg|Durban|South Africa has three capitals: Pretoria (executive), Cape Town (legislative) and Bloemfontein (judicial).
+The capital of New Zealand is:|Wellington|Auckland|Christchurch|Hamilton|Auckland is the largest city.
+The capital of Japan is:|Tokyo|Kyoto|Osaka|Nagoya|Kyoto was the former imperial capital.
+The capital of South Korea is:|Seoul|Busan|Pyongyang|Incheon|Pyongyang is the capital of North Korea.
+The capital of Malaysia is:|Kuala Lumpur|Putrajaya|Penang|Johor Bahru|Putrajaya is the administrative capital.
+The capital of Indonesia (to be moved) is currently:|Jakarta|Nusantara|Surabaya|Bandung|The new capital Nusantara is being built in Borneo.
+The capital of Iraq is:|Baghdad|Basra|Mosul|Erbil|It lies on the Tigris.
+The capital of Syria is:|Damascus|Aleppo|Homs|Latakia|It is among the oldest continuously inhabited cities.
+The capital of Jordan is:|Amman|Aqaba|Petra|Irbid|Amman lies in northwest Jordan.
+The capital of Uzbekistan is:|Tashkent|Samarkand|Bukhara|Dushanbe|Samarkand and Bukhara are historic Silk Road cities.
+The capital of Azerbaijan is:|Baku|Tbilisi|Yerevan|Ganja|Baku is on the Caspian Sea.
+The capital of Qatar is:|Doha|Dubai|Muscat|Manama|It hosted the FIFA World Cup 2022.
+The capital of Kuwait is:|Kuwait City|Doha|Muscat|Manama|It lies on the Persian Gulf.
+The capital of Oman is:|Muscat|Salalah|Manama|Doha|Oman is on the southeast coast of the Arabian Peninsula.
+The capital of Maldives is:|Male|Colombo|Kavaratti|Port Louis|It is the smallest Asian country by area.
+The capital of Greece is:|Athens|Thessaloniki|Rome|Sparta|Athens is the birthplace of democracy.
+The capital of Norway is:|Oslo|Stockholm|Copenhagen|Helsinki|Oslo hosts the Nobel Peace Prize.
+The capital of Argentina is:|Buenos Aires|Santiago|Lima|Montevideo|It lies on the Rio de la Plata.
+The capital of Russia is:|Moscow|Saint Petersburg|Kiev|Minsk|Saint Petersburg was the imperial capital until 1918.
+The capital of Italy is:|Rome|Milan|Venice|Naples|Vatican City lies within Rome.
+The capital of Spain is:|Madrid|Barcelona|Seville|Valencia|Barcelona is the capital of Catalonia.
+The capital of Kenya is:|Nairobi|Mombasa|Kampala|Dar es Salaam|Nairobi hosts the UN Environment Programme headquarters.
+The capital of Ethiopia is:|Addis Ababa|Nairobi|Khartoum|Mogadishu|It hosts the African Union headquarters.
+The capital of Morocco is:|Rabat|Casablanca|Marrakesh|Fez|Casablanca is the largest city.
+The capital of Algeria is:|Algiers|Tunis|Tripoli|Rabat|Algeria is the largest country in Africa by area.
+The capital of Libya is:|Tripoli|Benghazi|Tunis|Cairo|Libya is in North Africa.
+The capital of Sudan is:|Khartoum|Juba|Cairo|Asmara|It lies at the meeting of the Blue and White Nile.
+The capital of Mexico is:|Mexico City|Guadalajara|Lima|Bogota|It is among the largest cities in the Americas.
+The capital of Peru is:|Lima|Quito|La Paz|Bogota|Machu Picchu is a famous Peruvian site.
+The capital of Thailand is:|Bangkok|Chiang Mai|Hanoi|Phnom Penh|Bangkok is also called Krung Thep.
+The capital of Vietnam is:|Hanoi|Ho Chi Minh City|Hue|Da Nang|Ho Chi Minh City is the largest city.
+The capital of Philippines is:|Manila|Cebu|Davao|Quezon City|Manila is on Luzon island.
+The capital of Lebanon is:|Beirut|Damascus|Amman|Tripoli|It is on the Mediterranean coast.

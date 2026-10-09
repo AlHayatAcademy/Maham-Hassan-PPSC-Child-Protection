@@ -5,13 +5,14 @@ var $=function(id){return document.getElementById(id)};
 var REG=window.REGISTRY||[];
 window.TESTS=window.TESTS||{};
 var store=load();
-var S={tid:null,qs:[],idx:0,t0:0,tick:null,filter:'All'};
+var S={tid:null,qs:[],idx:0,t0:0,tick:null,filter:'All',exam:null};
+function R(){return S.exam?S.exam.rec:rec(S.tid)}
 
 function load(){try{return JSON.parse(localStorage.getItem(KEY))||{tests:{}}}catch(e){return {tests:{}}}}
 function save(){try{localStorage.setItem(KEY,JSON.stringify(store))}catch(e){}}
 function rec(id){return store.tests[id]||(store.tests[id]={ans:[],done:false,best:0,last:0,time:0})}
 function esc(s){return String(s).replace(/[&<>]/g,function(c){return {'&':'&amp;','<':'&lt;','>':'&gt;'}[c]})}
-function show(v){['home','quiz','result'].forEach(function(x){$(x).classList.toggle('hidden',x!==v)});window.scrollTo(0,0)}
+function show(v){['home','quiz','result','analysis'].forEach(function(x){$(x).classList.toggle('hidden',x!==v)});window.scrollTo(0,0)}
 function fmt(s){var m=Math.floor(s/60),r=s%60;return (m<10?'0':'')+m+':'+(r<10?'0':'')+r}
 function score(id){var r=rec(id),qs=window.TESTS[id]||[],c=0;r.ans.forEach(function(a,i){if(qs[i]&&a===qs[i].a)c++});return c}
 
@@ -29,6 +30,7 @@ function renderHome(){
   $('st-done').textContent=done+'/'+REG.length;
   $('st-best').textContent=best+'%';
   $('overall').textContent=att+' / '+(REG.length*50)+' done';
+  var ex=store.exams||[];$('ex-hist').textContent=ex.length?('Last exam: '+ex[ex.length-1].s+'/100 · best '+Math.max.apply(null,ex.map(function(x){return x.s}))+' · attempts '+ex.length):'No exam attempted yet.';
   var f=$('filters');f.innerHTML='';
   groups().forEach(function(g){
     var b=document.createElement('button');b.className='tab'+(g===S.filter?' on':'');b.textContent=g;
@@ -59,6 +61,7 @@ function loadData(id,cb){
   document.body.appendChild(s);
 }
 function start(id,fresh){
+  S.exam=null;$('finish').textContent='Finish & See Result';$('timer').classList.remove('low');$('r-retry').onclick=function(){start(S.tid,true)};
   loadData(id,function(){
     S.tid=id;S.qs=window.TESTS[id];
     var r=rec(id);
@@ -80,13 +83,13 @@ function buildPalette(){
   });
 }
 function paintPalette(){
-  var r=rec(S.tid);
+  var r=R();
   S.qs.forEach(function(q,i){
-    var b=$('pd'+i);b.className='pd'+(r.ans[i]==null?'':(r.ans[i]===q.a?' ok':' no'))+(i===S.idx?' cur':'');
+    var b=$('pd'+i);b.className='pd'+(r.ans[i]==null?'':(S.exam?' ans':(r.ans[i]===q.a?' ok':' no')))+(i===S.idx?' cur':'');
   });
 }
 function renderQ(){
-  var q=S.qs[S.idx],r=rec(S.tid),a=r.ans[S.idx];
+  var q=S.qs[S.idx],r=R(),a=r.ans[S.idx];
   $('qnum').textContent='Question '+(S.idx+1)+' of '+S.qs.length;
   $('qcat').textContent=q.c||'';
   $('qtext').textContent=q.q;
@@ -96,15 +99,18 @@ function renderQ(){
     var b=document.createElement('button');b.className='opt';
     b.innerHTML='<span class="l">'+'ABCD'[i]+'</span><span>'+esc(t)+'</span>';
     b.onclick=function(){pick(i)};
+    if(S.exam&&a===i)b.classList.add('sel');
     o.appendChild(b);
   });
   var ex=$('expl');
-  if(a!=null){lock(a)}else{ex.classList.add('hidden')}
+  if(S.exam){ex.classList.add('hidden')}
+  else if(a!=null){lock(a)}else{ex.classList.add('hidden')}
   $('prev').disabled=S.idx===0;
   $('next').disabled=S.idx===S.qs.length-1;
   paintPalette();
 }
 function pick(i){
+  if(S.exam){var er=S.exam.rec;er.ans[S.idx]=(er.ans[S.idx]===i?null:i);renderQ();return}
   var r=rec(S.tid);if(r.ans[S.idx]!=null)return;
   r.ans[S.idx]=i;r.time=Math.floor((Date.now()-S.t0)/1000);
   r.correct=0;S.qs.forEach(function(q,k){if(r.ans[k]===q.a)r.correct++});save();
@@ -124,6 +130,7 @@ function lock(a){
 
 /* ---------- RESULT ---------- */
 function finish(){
+  if(S.exam)return finishExam();
   var r=rec(S.tid),n=S.qs.length,ans=r.ans;
   var un=0;for(var i=0;i<n;i++)if(ans[i]==null)un++;
   if(un&&!confirm(un+' question(s) unattempted. Finish anyway?'))return;
@@ -140,7 +147,7 @@ function finish(){
   buildReview();show('result');
 }
 function buildReview(){
-  var r=rec(S.tid),rv=$('review');rv.innerHTML='';
+  var r=R(),rv=$('review');rv.innerHTML='';
   S.qs.forEach(function(q,i){
     var a=r.ans[i];
     var d=document.createElement('div');d.className='card';
@@ -156,15 +163,73 @@ function buildReview(){
   });
 }
 
+
+/* ---------- EXAM SIMULATOR ---------- */
+var BLUEPRINTS={
+  A:{name:'Exam Simulator A — Real-pattern mix',desc:'Mirrors the analysed 94-100 MCQ CPO paper: GK & current affairs 35, Pakistan Studies 16, English 13, Urdu 11, Science & Computer 10, Maths & Reasoning 8, Islamic Studies 7.',
+     mix:{'Current Affairs':18,'GK & Geography':17,'Pakistan Studies':16,'English':13,'Urdu':11,'Science & Computer':10,'Maths & Reasoning':8,'Islamic Studies':7}},
+  B:{name:'Exam Simulator B — Child-protection-heavy mix',desc:'Hedge if the paper includes the subject/Act: Act 20, Child Rights & Law 15, Social Sciences 15, plus a general-ability spread.',
+     mix:{'Child Protection Act':20,'Child Rights & Law':15,'Social Sciences':15,'Pakistan Studies':10,'Islamic Studies':5,'Current Affairs':10,'GK & Geography':5,'Science & Computer':5,'English':8,'Urdu':4,'Maths & Reasoning':3}}
+};
+var EXAM_SECS=90*60,NEG=0.25;
+function shuffle(a){for(var i=a.length-1;i>0;i--){var j=Math.floor(Math.random()*(i+1));var t=a[i];a[i]=a[j];a[j]=t}return a}
+function loadAll(cb){
+  var ids=REG.map(function(t){return t.id}),i=0;
+  (function nxt(){if(i>=ids.length)return cb();loadData(ids[i++],nxt)})();
+}
+function startExam(key){
+  var bp=BLUEPRINTS[key];
+  $('exam-load').classList.remove('hidden');
+  loadAll(function(){
+    $('exam-load').classList.add('hidden');
+    var pool={};
+    REG.forEach(function(t){(pool[t.group]=pool[t.group]||[]).push.apply(pool[t.group],window.TESTS[t.id])});
+    var qs=[];
+    Object.keys(bp.mix).forEach(function(g){qs=qs.concat(shuffle((pool[g]||[]).slice()).slice(0,bp.mix[g]))});
+    shuffle(qs);
+    S.exam={key:key,rec:{ans:[]},end:Date.now()+EXAM_SECS*1000,bp:bp};
+    S.tid='exam';S.qs=qs;S.idx=0;
+    $('qtitle').textContent=bp.name+' · '+qs.length+' MCQs';
+    clearInterval(S.tick);
+    function tk(){var left=Math.max(0,Math.round((S.exam.end-Date.now())/1000));$('timer').textContent=fmt(left);$('timer').classList.toggle('low',left<600);if(left<=0){clearInterval(S.tick);finishExam(true)}}
+    tk();S.tick=setInterval(tk,1000);
+    $('finish').textContent='Submit Exam';
+    buildPalette();renderQ();show('quiz');
+  });
+}
+function finishExam(auto){
+  var r=S.exam.rec,n=S.qs.length,c=0,w=0,u=0;
+  S.qs.forEach(function(q,i){var a=r.ans[i];if(a==null)u++;else if(a===q.a)c++;else w++});
+  if(!auto&&u&&!confirm(u+' question(s) unanswered. Submit the exam?'))return;
+  clearInterval(S.tick);
+  var sc=Math.round((c-w*NEG)*100)/100;
+  var used=Math.min(EXAM_SECS,EXAM_SECS-Math.max(0,Math.round((S.exam.end-Date.now())/1000)));
+  store.exams=store.exams||[];
+  store.exams.push({d:Date.now(),k:S.exam.key,c:c,w:w,u:u,s:sc});save();
+  $('r-title').textContent=S.exam.bp.name;
+  var pct=Math.max(0,Math.round(sc/n*100));
+  $('r-pct').textContent=pct+'%';
+  $('ring').style.setProperty('--deg',(pct*3.6)+'deg');
+  $('r-c').textContent=c;$('r-w').textContent=w;$('r-s').textContent=u;$('r-t').textContent=fmt(used);
+  var pass=sc>=n*0.4;
+  $('r-line').textContent='Net score '+sc+' / '+n+' (correct − '+NEG+' × wrong). '+(sc>=n*0.7?'🏆 Strong — well above the usual cut-off.':pass?'👍 Above 40% (reported pass mark) but aim for 70%+ to be safe.':'📚 Below 40%. Study the explanations and retake.');
+  $('r-retry').onclick=function(){startExam(S.exam.key)};
+  buildReview();show('result');
+}
+
 /* ---------- wiring ---------- */
 $('prev').onclick=function(){if(S.idx>0){S.idx--;renderQ()}};
 $('next').onclick=function(){if(S.idx<S.qs.length-1){S.idx++;renderQ()}};
 $('finish').onclick=finish;
-$('back').onclick=function(){clearInterval(S.tick);renderHome()};
-$('home-link').onclick=function(){clearInterval(S.tick);renderHome()};
-$('r-home').onclick=renderHome;
+$('back').onclick=function(){if(S.exam&&!confirm('Leave the exam? Your attempt will be lost.'))return;clearInterval(S.tick);S.exam=null;$('finish').textContent='Finish & See Result';renderHome()};
+$('home-link').onclick=function(){if(S.exam&&!confirm('Leave the exam? Your attempt will be lost.'))return;clearInterval(S.tick);S.exam=null;$('finish').textContent='Finish & See Result';renderHome()};
+$('r-home').onclick=function(){S.exam=null;$('finish').textContent='Finish & See Result';$('r-retry').onclick=function(){start(S.tid,true)};renderHome()};
 $('r-retry').onclick=function(){start(S.tid,true)};
 $('r-review').onclick=function(){$('review').scrollIntoView({behavior:'smooth'})};
+$('ex-a').onclick=function(){startExam('A')};
+$('ex-b').onclick=function(){startExam('B')};
+$('go-analysis').onclick=function(){show('analysis')};
+$('an-back').onclick=renderHome;
 $('reset-all').onclick=function(){if(confirm('Erase ALL progress and scores?')){store={tests:{}};save();renderHome()}};
 document.addEventListener('keydown',function(e){
   if($('quiz').classList.contains('hidden'))return;

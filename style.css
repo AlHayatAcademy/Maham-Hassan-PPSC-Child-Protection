@@ -78,3 +78,12 @@ main{max-width:860px;margin:0 auto;padding:14px}
 #review .card{margin-top:12px}
 .rv-q{font-weight:600}
 @media(max-width:520px){.stats{grid-template-columns:repeat(2,1fr)}.hero h1{font-size:1.3rem}}
+
+.simbox{background:linear-gradient(135deg,#fff,#f3e8ff);border:2px solid #c4b5fd;border-radius:18px;padding:16px;margin:14px 0}
+.simbox h2{margin:0 0 6px;font-size:1.15rem}.simbox h2 small{font-weight:500;color:#6b21a8;font-size:.8rem}
+.simbox .row{display:flex;flex-wrap:wrap;gap:8px;margin-top:8px}
+.opt.sel{border-color:#7c3aed;background:#ede9fe}
+.timer.low{color:#dc2626;font-weight:800}
+.prose h3{margin:16px 0 6px}.prose ul{padding-left:20px;line-height:1.55}.prose table{border-collapse:collapse;width:100%;max-width:360px}
+.prose td,.prose th{border:1px solid #ddd;padding:6px 10px;text-align:left}
+.pd.ans{background:#7c3aed;color:#fff}

@@ -1,0 +1,51 @@
+# Test 32 - Basic Computer Skills I: fundamentals, hardware, software and MS Windows
+The brain of the computer is the:|CPU (Central Processing Unit)|Monitor|Keyboard|Mouse|The CPU executes instructions; it contains the ALU and the control unit.
+CPU stands for:|Central Processing Unit|Central Program Unit|Computer Processing Unit|Control Processing Unit|It is the main processor.
+The ALU performs:|Arithmetic and logical operations|Printing|Storage only|Display|ALU stands for Arithmetic Logic Unit.
+RAM stands for:|Random Access Memory|Read Access Memory|Rapid Access Memory|Real Access Memory|RAM is volatile; data is lost when power goes off.
+ROM stands for:|Read Only Memory|Random Only Memory|Read Output Memory|Real Only Memory|ROM is non-volatile and stores the BIOS.
+Which memory is volatile?|RAM|ROM|Hard disk|USB flash drive|Volatile memory loses content without power.
+The smallest unit of data in a computer is a:|Bit|Byte|Nibble|Word|A bit is 0 or 1.
+A byte consists of:|8 bits|4 bits|16 bits|2 bits|4 bits make a nibble.
+One kilobyte is approximately:|1,024 bytes|100 bytes|1,000,000 bytes|10 bytes|Then MB, GB and TB each 1,024 times larger.
+1 GB equals:|1,024 MB|100 MB|1,000 KB|10 MB|1 TB equals 1,024 GB.
+The binary number system uses the digits:|0 and 1|0 to 7|0 to 9|1 and 2|Computers work with binary digits.
+The hexadecimal system has a base of:|16|8|10|2|Decimal is base 10, octal is base 8.
+The father of the computer is:|Charles Babbage|Alan Turing|Bill Gates|Steve Jobs|Babbage designed the Analytical Engine; Ada Lovelace is the first programmer.
+The first programmer in history is considered to be:|Ada Lovelace|Alan Turing|Grace Hopper|Bill Gates|She wrote an algorithm for Babbage's Analytical Engine.
+The first generation of computers used:|Vacuum tubes|Transistors|Integrated circuits|Microprocessors|Second generation used transistors; third ICs; fourth microprocessors.
+The third generation of computers used:|Integrated circuits|Vacuum tubes|Transistors|Microprocessors|The fifth generation is associated with artificial intelligence.
+Input devices include all EXCEPT:|Monitor|Keyboard|Mouse|Scanner|A monitor is an output device.
+Which is an output device?|Printer|Scanner|Microphone|Keyboard|Speakers and monitors are also output devices.
+A touch screen is an example of:|Both input and output device|Input only|Output only|Storage device|It accepts touch and displays information.
+The device used to point and select items on the screen is the:|Mouse|Printer|Plotter|Speaker|Douglas Engelbart invented the mouse.
+The device used to scan barcodes is a:|Barcode reader|Plotter|Joystick|Trackball|It is an input device.
+A plotter is used for printing:|Large drawings and designs|Text only|Sound|Video|It is used by engineers and architects.
+Which printer prints by striking an ink ribbon?|Dot matrix printer|Laser printer|Inkjet printer|Thermal printer|It is an impact printer.
+Which printer uses toner?|Laser printer|Dot matrix printer|Inkjet|Daisy wheel|Laser printers give high-speed, high-quality output.
+The permanent storage device in a computer is the:|Hard disk|RAM|Cache|Register|SSDs are faster than HDDs.
+SSD stands for:|Solid State Drive|System Storage Disk|Super Speed Drive|Static Storage Device|It has no moving parts.
+USB stands for:|Universal Serial Bus|Universal System Bus|United Serial Bus|Unique Serial Bus|USB connects peripherals.
+Software that controls the hardware and manages the computer's resources is the:|Operating System|Application software|Compiler|Browser|Windows, Linux, macOS and Android are operating systems.
+Which of the following is NOT an operating system?|Microsoft Word|Windows|Linux|Android|MS Word is application software.
+Linux was created by:|Linus Torvalds|Bill Gates|Steve Jobs|Dennis Ritchie|Linux is open-source software.
+The Windows operating system was developed by:|Microsoft|Apple|IBM|Google|Microsoft was founded by Bill Gates and Paul Allen in 1975.
+The Android operating system is owned by:|Google|Apple|Microsoft|Samsung|Apple's mobile operating system is iOS.
+A program that translates high-level language into machine language all at once is a:|Compiler|Interpreter|Assembler|Linker|An interpreter translates line by line.
+A program that translates assembly language is an:|Assembler|Compiler|Interpreter|Debugger|Assembly language is a low-level language.
+Which language is directly understood by the computer?|Machine language|C language|Python|Java|Machine language consists of binary code.
+Which is a high-level programming language?|Python|Machine code|Assembly|Binary|Other examples include Java, C++ and C#.
+The shortcut key to copy is:|Ctrl + C|Ctrl + X|Ctrl + V|Ctrl + Z|Ctrl + X cuts and Ctrl + V pastes.
+The shortcut key to paste is:|Ctrl + V|Ctrl + C|Ctrl + X|Ctrl + P|Ctrl + P prints.
+The shortcut key to undo is:|Ctrl + Z|Ctrl + Y|Ctrl + X|Ctrl + U|Ctrl + Y redoes.
+The shortcut key to select all is:|Ctrl + A|Ctrl + S|Ctrl + E|Ctrl + Q|Ctrl + S saves.
+The shortcut key to open the Task Manager is:|Ctrl + Shift + Esc|Alt + F4|Ctrl + Alt|Win + D|Ctrl + Alt + Delete also gives the option.
+The shortcut Alt + F4 does:|Close the active window|Open a window|Print|Save|Alt + Tab switches between windows.
+The shortcut key to show the desktop in Windows is:|Windows key + D|Windows key + E|Ctrl + D|Alt + D|Windows + E opens File Explorer.
+The key used to rename a selected file is:|F2|F1|F5|F12|F5 refreshes; F1 opens Help.
+The key used to refresh a window is:|F5|F2|F1|F10|F5 is also used to reload a web page.
+The Recycle Bin stores:|Deleted files temporarily|Printer settings|New files|Network files|Shift + Delete deletes permanently.
+The file extension of a Word document is:|.docx|.xlsx|.pptx|.txt|Excel uses .xlsx and PowerPoint .pptx.
+The file extension of a PDF file is:|.pdf|.doc|.exe|.png|PDF stands for Portable Document Format.
+The file extension of an executable file is:|.exe|.txt|.jpg|.pdf|.exe files run programs.
+A computer virus is a:|Malicious program that can replicate|Hardware part|Search engine|Operating system|Antivirus software detects and removes viruses.

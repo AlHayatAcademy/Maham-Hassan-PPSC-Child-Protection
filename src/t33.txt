@@ -1,0 +1,51 @@
+# Test 33 - Basic Computer Skills II: MS Office, internet, email and cyber safety
+MS Word is a:|Word processor|Spreadsheet program|Database|Browser|Word is part of Microsoft Office.
+MS Excel is a:|Spreadsheet program|Word processor|Presentation program|Database|The extension is .xlsx.
+MS PowerPoint is used for:|Presentations|Spreadsheets|Databases|Emails|Slides are created in PowerPoint.
+MS Access is a:|Database management system|Word processor|Browser|Presentation|It stores data in tables.
+MS Outlook is mainly used for:|Email and calendar|Spreadsheets|Drawing|Database|Outlook manages emails.
+In MS Word, the shortcut key for Bold is:|Ctrl + B|Ctrl + I|Ctrl + U|Ctrl + T|Ctrl + I is italic; Ctrl + U is underline.
+In MS Word, the shortcut key for Italic is:|Ctrl + I|Ctrl + B|Ctrl + U|Ctrl + L|Ctrl + L aligns left.
+In MS Word, the shortcut key for Underline is:|Ctrl + U|Ctrl + B|Ctrl + I|Ctrl + Y|Underline emphasises text.
+In MS Word, the shortcut to centre align text is:|Ctrl + E|Ctrl + C|Ctrl + R|Ctrl + L|Ctrl + R aligns right; Ctrl + J justifies.
+In MS Word, the shortcut to justify text is:|Ctrl + J|Ctrl + L|Ctrl + R|Ctrl + E|Justify aligns both left and right margins.
+In MS Word, the shortcut to open the Find dialog is:|Ctrl + F|Ctrl + H|Ctrl + G|Ctrl + K|Ctrl + H opens Find and Replace.
+In MS Word, the shortcut for Find and Replace is:|Ctrl + H|Ctrl + F|Ctrl + G|Ctrl + R|It replaces text.
+In MS Word, the shortcut to create a new document is:|Ctrl + N|Ctrl + O|Ctrl + S|Ctrl + P|Ctrl + O opens a document.
+In MS Word, the shortcut to open a document is:|Ctrl + O|Ctrl + N|Ctrl + S|Ctrl + W|Ctrl + W closes a document.
+In MS Word, the shortcut to save a document is:|Ctrl + S|Ctrl + A|Ctrl + P|Ctrl + N|F12 opens Save As.
+In MS Word, the shortcut to print is:|Ctrl + P|Ctrl + S|Ctrl + O|Ctrl + R|Print opens the print dialog.
+The shortcut key for Save As in MS Word is:|F12|F1|F5|F7|F7 runs spelling and grammar check.
+The shortcut key for the spelling and grammar check in MS Word is:|F7|F5|F12|F4|F4 repeats the last action.
+The default file extension for a template in Word is:|.dotx|.docx|.txt|.pdf|Templates give predefined layouts.
+The default orientation of a page in MS Word is:|Portrait|Landscape|Square|Diagonal|Page Layout lets you change it.
+The default font in recent MS Word versions is:|Calibri/Aptos|Times New Roman|Arial|Verdana|Older versions used Times New Roman; Word 2007-2019 used Calibri, newer versions use Aptos.
+The area at the top of a page where repeated text appears is the:|Header|Footer|Margin|Gutter|The bottom area is the footer.
+The Mail Merge feature in MS Word is used to:|Create personalised letters for many recipients|Merge two images|Print|Draw|Data from a list is merged into a template.
+The intersection of a row and a column in Excel is a:|Cell|Table|Chart|Range|A cell is referenced like A1.
+The default name of a new worksheet in Excel is:|Sheet1|Book1|Table1|Data1|Book1 is the default workbook name.
+Every formula in Excel begins with:|= sign|+ sign|@ sign|# sign|Example: =SUM(A1:A5).
+The Excel function to add numbers is:|SUM|ADD|TOTAL|PLUS|=SUM(A1:A10) adds the range.
+The Excel function to find the average is:|AVERAGE|MEAN|AVG|MID|=AVERAGE(A1:A10).
+The Excel function to find the largest number is:|MAX|BIG|LARGE only|TOP|MIN finds the smallest.
+The Excel function to count cells containing numbers is:|COUNT|SUM|NUM|TOTAL|COUNTA counts non-empty cells.
+The Excel function IF is used for:|Conditional logic|Counting|Addition|Printing|=IF(A1>50,"Pass","Fail").
+VLOOKUP searches for a value in the:|First column of a table|Last column|Any row|Header only|HLOOKUP searches the first row.
+The number of rows in an Excel worksheet (modern versions) is:|1,048,576|65,536|256|16,384|The number of columns is 16,384 (XFD).
+The last column in an Excel worksheet is:|XFD|ZZ|IV|AZ|IV was the last column in Excel 2003.
+The shortcut to edit a cell in Excel is:|F2|F4|F5|F7|F4 repeats the last action or toggles absolute reference.
+The symbol used to make a reference absolute in Excel is:|$|#|&|@|Example: $A$1.
+In PowerPoint, the shortcut to start a slideshow from the beginning is:|F5|F7|F2|F12|Shift + F5 starts from the current slide.
+The area where you type notes for the presenter in PowerPoint is the:|Notes pane|Slide sorter|Outline|Master|Slide Master controls the layout.
+The extension of a PowerPoint slideshow is:|.pptx|.docx|.xlsx|.accdb|.ppsx opens directly in slideshow mode.
+The term for the world's largest computer network is the:|Internet|Intranet|LAN|WAN|The internet is a global network of networks.
+WWW stands for:|World Wide Web|World Wide Wire|Web Wide World|Wide World Web|Tim Berners-Lee invented it in 1989.
+URL stands for:|Uniform Resource Locator|Universal Resource Link|Unified Reference Locator|Uniform Reference Link|It is the web address.
+HTML is used to:|Create web pages|Browse the internet|Send emails|Store data|HTML stands for HyperText Markup Language.
+A web browser is:|Software for browsing websites|A search engine|An operating system|A virus|Chrome, Firefox, Edge and Safari are browsers.
+Which of the following is a search engine?|Google|Chrome|Firefox|Windows|A browser displays pages; a search engine finds them.
+An email address must contain the symbol:|@|#|&|%|Format: name@domain.com.
+CC in an email means:|Carbon Copy|Computer Copy|Common Copy|Complete Copy|BCC means Blind Carbon Copy, in which recipients are hidden.
+LAN stands for:|Local Area Network|Large Area Network|Linked Area Network|Line Area Network|WAN means Wide Area Network.
+Phishing is:|A fraud to steal personal information through fake messages|A hardware fault|A browser|A programming language|Never share passwords or OTPs.
+The key combination Ctrl + Home in a Word document moves the cursor to:|Beginning of the document|End of the document|Next page|Previous word|Ctrl + End goes to the end.

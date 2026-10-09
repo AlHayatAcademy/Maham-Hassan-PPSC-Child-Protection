@@ -10,26 +10,48 @@ Run:  python3 build.py
 import json, os, random, sys
 
 META = [
- (1,"Punjab Child Protection Law I","Destitute & Neglected Children Act 2004, Bureau, courts, procedures","Child Protection Law","#7c3aed"),
- (2,"Punjab Child Protection Law II","Bureau operations, CPO duties, rescue, rehabilitation, case management","Child Protection Law","#db2777"),
- (3,"UNCRC & International Child Rights","Convention on the Rights of the Child, protocols, SDGs, treaties","Child Protection Law","#0ea5e9"),
- (4,"Pakistan Child-Related Laws","JJSA, PPC, Zainab Alert, labour, marriage, education, Constitution","Child Protection Law","#16a34a"),
- (5,"Social Work I","Methods, casework, group work, community organization, theory","Social Sciences","#f59e0b"),
- (6,"Social Work II & Welfare","Counselling, NGOs, welfare, field practice, research","Social Sciences","#ef4444"),
- (7,"Psychology & Child Development","Piaget, Erikson, Freud, learning, abuse, trauma, behaviour","Social Sciences","#8b5cf6"),
- (8,"Sociology","Concepts, family, culture, deviance, stratification, theorists","Social Sciences","#06b6d4"),
- (9,"Criminology & Juvenile Delinquency","Theories, causes, juvenile justice, probation, prevention","Social Sciences","#f97316"),
- (10,"Subject Mock I","Mixed subject paper: law + social sciences","Mock Papers","#e11d48"),
- (11,"Pakistan Studies","History, Pakistan Movement, geography, resources","General Knowledge","#059669"),
- (12,"Constitution & Governance","Constitution of Pakistan, Punjab govt, local govt, public admin","General Knowledge","#2563eb"),
- (13,"Islamiat","Quran, Seerah, pillars, rights of children and family in Islam","General Knowledge","#15803d"),
- (14,"Current Affairs Pakistan","Recent events, awards, sports, economy, policies","General Knowledge","#c026d3"),
- (15,"Current Affairs World & GK","International orgs, countries, awards, days, capitals","General Knowledge","#0891b2"),
- (16,"Everyday Science & IT","Physics, chemistry, biology, health, computers","General Knowledge","#ca8a04"),
- (17,"English","Grammar, vocabulary, idioms, one-word substitution, comprehension","General Knowledge","#4f46e5"),
- (18,"Urdu / اردو","Urdu literature, grammar, proverbs, poets","General Knowledge","#be123c"),
- (19,"Mental Ability & Maths","Series, ratio, percentage, reasoning, analogies","General Knowledge","#0d9488"),
- (20,"Full Mock Paper","Mixed paper in PPSC proportion","Mock Papers","#9333ea"),
+ (1,"Punjab Act I: Sections 1-23","PDNCA 2004: preliminary, definitions, Bureau, Board, Director General, courts","Child Protection Act","#7c3aed"),
+ (2,"Punjab Act II: Sections 24-51","Rescue, custody, offences and penalties, fund, miscellaneous","Child Protection Act","#db2777"),
+ (3,"Punjab Act III: Numbers & One-liners","Rapid-fire drill: parts, periods, amounts, ages, who is who","Child Protection Act","#e11d48"),
+ (4,"UNCRC & International Child Rights","Convention articles, protocols, ILO, SDGs, international days","Child Rights & Law","#0ea5e9"),
+ (5,"Pakistan Child-Related Laws","JJSA, PPC, Zainab Alert, labour, marriage, education, Constitution","Child Rights & Law","#16a34a"),
+ (6,"Child Protection Practice I","CPO duties, interviewing, rescue, referral, case management","Child Rights & Law","#f59e0b"),
+ (7,"Child Protection Scenarios","Situation-based questions, health, welfare, abbreviations","Child Rights & Law","#ef4444"),
+ (8,"Child Protection Concepts & Policy","Abuse types, alternative care, trafficking, prevention","Child Rights & Law","#8b5cf6"),
+ (9,"Social Work I","Methods, casework, group work, community organization, theory","Social Sciences","#06b6d4"),
+ (10,"Social Work II & Welfare","Counselling, NGOs, welfare, field practice, research","Social Sciences","#f97316"),
+ (11,"Psychology & Child Development","Piaget, Erikson, Freud, learning, trauma, behaviour","Social Sciences","#be123c"),
+ (12,"Sociology","Concepts, family, culture, deviance, stratification, theorists","Social Sciences","#0d9488"),
+ (13,"Criminology & Juvenile Delinquency","Theories, juvenile justice, probation, prevention","Social Sciences","#9333ea"),
+ (14,"Pakistan Studies I","Pakistan Movement, history, geography basics","Pakistan Studies","#059669"),
+ (15,"Constitution & Governance","Constitution of Pakistan, Punjab govt, public administration","Pakistan Studies","#2563eb"),
+ (16,"Pakistan: History & Firsts","Pakistan firsts, leaders, treaties, wars, amendments","Pakistan Studies","#c026d3"),
+ (17,"Pakistan: Geography & Economy","Rivers, mountains, dams, minerals, crops, cities, CPEC","Pakistan Studies","#0891b2"),
+ (18,"Pakistan: Culture & Personalities","Festivals, languages, heroes, awards, sports, landmarks","Pakistan Studies","#ca8a04"),
+ (19,"Islamic Studies I","Quran, Seerah, pillars, Khulafa, rights of children in Islam","Islamic Studies","#15803d"),
+ (20,"Islamic Studies II","Hadith, fiqh, Islamic history, battles, prophets","Islamic Studies","#4f46e5"),
+ (21,"Current Affairs: Pakistan I","Politics, economy, awards, sports, policies","Current Affairs","#dc2626"),
+ (22,"Current Affairs: Pakistan II","Institutions, projects, laws, disasters, Punjab updates","Current Affairs","#7c3aed"),
+ (23,"Current Affairs: World I","International orgs, summits, countries, days","Current Affairs","#db2777"),
+ (24,"Current Affairs: World II","Leaders, conflicts, treaties, awards, sports events","Current Affairs","#0ea5e9"),
+ (25,"World Geography I","Continents, countries, capitals, rivers, oceans","GK & Geography","#16a34a"),
+ (26,"World Geography & History II","Landmarks, deserts, lakes, world history, wars","GK & Geography","#f59e0b"),
+ (27,"GK: Organizations, Inventions, Awards","UN agencies, inventions, Nobel, treaties, abbreviations","GK & Geography","#ef4444"),
+ (28,"GK: Personalities, Books, Landmarks","Famous people, authors, monuments, firsts, sports","GK & Geography","#8b5cf6"),
+ (29,"Everyday Science I","Physics, chemistry, biology, health, basics of IT","Science & Computer","#06b6d4"),
+ (30,"Everyday Science II","Human body, diseases, units, elements, space, environment","Science & Computer","#f97316"),
+ (31,"Computer Skills I","Hardware, software, MS Word, shortcuts","Science & Computer","#be123c"),
+ (32,"Computer Skills II","MS Excel, PowerPoint, formulas, file formats","Science & Computer","#0d9488"),
+ (33,"Computer Skills III","Internet, email, networking, number systems, security","Science & Computer","#9333ea"),
+ (34,"English I","Grammar, vocabulary, idioms, one-word substitution","English","#059669"),
+ (35,"English II: Grammar & Voice","Tenses, voice, narration, articles, prepositions","English","#2563eb"),
+ (36,"English III: Vocabulary","Synonyms, antonyms, analogies, confused words","English","#c026d3"),
+ (37,"English IV: Idioms, Spelling & Errors","Idioms, phrases, spelling, sentence correction","English","#0891b2"),
+ (38,"Urdu I / اردو","Urdu literature, grammar, proverbs, poets","Urdu","#ca8a04"),
+ (39,"Urdu II / اردو","Poets, prose writers, books, idioms","Urdu","#dc2626"),
+ (40,"Urdu III / اردو","Grammar, synonyms, antonyms, proverbs, mazameen","Urdu","#7c3aed"),
+ (41,"Mental Ability & Maths I","Series, ratio, percentage, reasoning, analogies","Maths & Reasoning","#db2777"),
+ (42,"Mental Ability & Maths II","Arithmetic, algebra, geometry, time-work, data","Maths & Reasoning","#0ea5e9"),
 ]
 
 HERE = os.path.dirname(os.path.abspath(__file__))
@@ -71,7 +93,7 @@ dist = [0, 0, 0, 0]
 for tid, title, desc, group, color in META:
     rows = parse(tid)
     for r in rows:
-        r["c"] = group if group == "Mock Papers" else title
+        r["c"] = group
     # allow tests to carry per-line category via nothing; keep simple
     for r in rows: dist[r["a"]] += 1
     if len(rows) != 50: errors.append("t%02d has %d questions (need 50)" % (tid, len(rows)))

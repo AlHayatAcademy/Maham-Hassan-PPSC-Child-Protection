@@ -3,7 +3,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>PPSC Child Protection Officer (BPS-17) – 1000 MCQs Practice</title>
+<title>PPSC Child Protection Officer (BPS-17) – 2100 MCQs + Exam Simulator</title>
 <meta name="theme-color" content="#5b21b6">
 <link rel="stylesheet" href="style.css">
 </head>
@@ -11,7 +11,7 @@
 <header class="top">
   <div class="brand" id="home-link">🛡️ <span>PPSC CPO <b>Prep</b></span></div>
   <div class="top-right">
-    <span id="overall" class="pill">0 / 1000 done</span>
+    <span id="overall" class="pill">0 / 2100 done</span>
     <button id="reset-all" class="ghost" title="Reset all progress">Reset</button>
   </div>
 </header>
@@ -21,7 +21,7 @@
   <section id="home" class="view">
     <div class="hero">
       <h1>Child Protection Officer <small>BPS-17</small></h1>
-      <p>PPSC Case No. 07-RB/2026 · 26 posts · 20 Practice Tests × 50 MCQs = <b>1000 questions</b></p>
+      <p>PPSC Case No. 07-RB/2026 · 26 posts · 42 Practice Tests × 50 MCQs = <b>2,100 questions</b> + 100-MCQ exam simulator</p>
       <div class="stats">
         <div class="stat s1"><b id="st-att">0</b><span>Attempted</span></div>
         <div class="stat s2"><b id="st-acc">0%</b><span>Accuracy</span></div>
@@ -29,6 +29,16 @@
         <div class="stat s4"><b id="st-best">0%</b><span>Best score</span></div>
       </div>
       <p class="note">Questions are expert predictions modelled on PPSC paper style (4 options A–D, 1 mark each). Always cross-check laws and current affairs with the official sources before the exam.</p>
+    </div>
+    <div class="simbox">
+      <h2>⏱️ Full Exam Simulator <small>100 MCQs · 90 min · −0.25 per wrong</small></h2>
+      <p>Random papers drawn from the whole bank. Answers are hidden until you submit; you can change answers. <span id="ex-hist"></span></p>
+      <div class="row">
+        <button class="btn" id="ex-a">Simulator A · Real-pattern mix</button>
+        <button class="btn alt" id="ex-b">Simulator B · Child-protection-heavy</button>
+        <button class="btn alt" id="go-analysis">📊 PPSC Pattern &amp; Strategy</button>
+      </div>
+      <div id="exam-load" class="hidden note">Preparing your paper…</div>
     </div>
     <div class="tabs" id="filters"></div>
     <div id="grid" class="grid"></div>
@@ -54,6 +64,43 @@
     </div>
     <div class="palette" id="palette"></div>
     <button id="finish" class="btn finish">Finish &amp; See Result</button>
+  </section>
+
+
+  <!-- ANALYSIS -->
+  <section id="analysis" class="view hidden">
+    <button id="an-back" class="ghost">← Tests</button>
+    <div class="card prose">
+      <h2>PPSC pattern &amp; what to expect</h2>
+      <p class="note">Built from publicly reported third-party summaries of PPSC papers (the official PDFs could not be opened). Treat all of it as informed prediction, not inside information. <b>Check the official syllabus for this post on ppsc.gop.pk.</b></p>
+      <h3>Reported format</h3>
+      <ul><li>One paper, about 100 MCQs, 90 minutes, four options, reported −0.25 for each wrong answer and about 40% passing marks.</li>
+      <li>Syllabus listed in the advertisement (secondary source): Pakistan Studies, Current Affairs, Geography, Basic Maths, English, Urdu, Everyday Science, Basic Computer Skills, plus Islamic Studies for Muslims.</li></ul>
+      <h3>Subject mix seen in a comparable CPO paper</h3>
+      <table><tr><th>Area</th><th>Approx. share</th></tr>
+      <tr><td>GK &amp; current affairs</td><td>35%</td></tr><tr><td>Pakistan Studies</td><td>16%</td></tr>
+      <tr><td>English</td><td>13%</td></tr><tr><td>Urdu</td><td>11%</td></tr>
+      <tr><td>Computer</td><td>10%</td></tr><tr><td>Maths</td><td>8.5%</td></tr>
+      <tr><td>Islamic Studies</td><td>7.5%</td></tr></table>
+      <p>That paper had no child-protection questions. Another reported CPO (Legal) paper took 13 of 14 questions straight from the PDNCA 2004 text. So both kinds exist: this bank covers both, and Simulator A / B mirror them.</p>
+      <h3>How PPSC questions behave</h3>
+      <ul><li>Straight factual recall: who, when, where, which. Few application or reasoning items.</li>
+      <li>Favourite topics: firsts and superlatives, international organisations, constitutional history and amendments, MS Office shortcuts, Urdu poets/books/proverbs, English idioms, antonyms, voice and narration, prepositions, short numeric maths.</li>
+      <li>Look-alike distractors and an occasional 'None of these'. Static facts matter far more than current events.</li>
+      <li>Negative marking: skip only when you cannot eliminate at least two options.</li></ul>
+      <h3>8-day plan</h3>
+      <ul><li><b>Days 1–2:</b> Act tests 1–3, then Child Rights &amp; Law. Memorise section numbers, ages, penalties and the Board composition.</li>
+      <li><b>Days 3–5:</b> Pakistan Studies, Current Affairs, GK/Geography. Highest weight in the real paper.</li>
+      <li><b>Day 6:</b> English, Urdu, Maths, Computer, Science drills.</li>
+      <li><b>Day 7:</b> Social Sciences + Islamic Studies; redo every question you got wrong.</li>
+      <li><b>Day 8:</b> One simulator only, light revision, sleep early.</li></ul>
+      <h3>Known conflicts in sources (verify before the exam)</h3>
+      <ul><li>Child Protection Court time limit: one month (Act text) vs three months (some keys).</li>
+      <li>Courts part: Part VI (Act text) vs Part VII (some keys).</li>
+      <li>Offences: "cognizable" (s.42) vs "cognizable and non-bailable" (some keys).</li>
+      <li>The Act was amended (2007, 2014, 2017; a 2025 bill reported). Check punjablaws.gov.pk for the latest text.</li>
+      <li>Current-affairs answers (office-holders, amendments, events of 2025–26) change quickly: verify on a news source the day before.</li></ul>
+    </div>
   </section>
 
   <!-- RESULT -->

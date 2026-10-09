@@ -1,51 +1,51 @@
-# Test 19 - Mental ability and basic maths
-Find the next number in the series: 2, 4, 8, 16, ___|32|24|30|20|Each term is double the previous: 2 × 2 = 4, 4 × 2 = 8, 8 × 2 = 16, so next is 32. This is a geometric series with ratio 2.
-Find the next number: 3, 6, 9, 12, ___|15|14|16|18|The series is multiples of 3 (an arithmetic series with common difference 3).
-Find the next number: 1, 4, 9, 16, 25, ___|36|30|35|49|These are perfect squares: 1², 2², 3², 4², 5², so next is 6² = 36.
-Find the next number: 2, 3, 5, 7, 11, ___|13|12|14|15|These are prime numbers in order. After 11 comes 13.
-Find the next number: 1, 1, 2, 3, 5, 8, ___|13|11|12|14|This is the Fibonacci sequence where each term is the sum of the previous two: 5 + 8 = 13.
-Find the missing term: 5, 10, 20, 40, ___|80|60|70|50|The ratio is 2, so 40 × 2 = 80.
-Find the next number: 100, 90, 80, 70, ___|60|65|50|55|It is a decreasing arithmetic series with difference −10.
-What is 15% of 200?|30|20|25|35|15% of 200 = 15/100 × 200 = 30.
-What is 25% of 80?|20|25|15|30|25% = 1/4; one quarter of 80 is 20.
-A shirt costs Rs 500 and a 20% discount is given. The selling price is:|Rs 400|Rs 450|Rs 300|Rs 480|Discount = 20% of 500 = Rs 100. Selling price = 500 − 100 = Rs 400.
-If the cost price is Rs 200 and selling price Rs 250, the profit percentage is:|25%|20%|50%|10%|Profit = 50. Profit % = (50/200) × 100 = 25%.
-If a man sells an article for Rs 90 at a loss of 10%, the cost price is:|Rs 100|Rs 99|Rs 81|Rs 110|SP = 0.9 × CP, so CP = 90/0.9 = Rs 100.
-The average of 10, 20 and 30 is:|20|15|25|30|Average = (10 + 20 + 30)/3 = 60/3 = 20.
-The ratio of 12 to 18 in simplest form is:|2:3|3:2|4:5|1:2|Divide both by 6: 12 ÷ 6 = 2 and 18 ÷ 6 = 3.
-If 6 pens cost Rs 90, the cost of 10 pens is:|Rs 150|Rs 120|Rs 100|Rs 180|One pen costs 90/6 = Rs 15; 10 pens = Rs 150.
-If 5 workers finish a job in 12 days, how many days will 10 workers take?|6 days|24 days|10 days|8 days|Man-days are constant: 5 × 12 = 60. For 10 workers: 60/10 = 6 days (inverse proportion).
-A train travels 240 km in 4 hours. Its speed is:|60 km/h|50 km/h|80 km/h|40 km/h|Speed = distance/time = 240/4 = 60 km/h.
-How long will a car take to travel 150 km at a speed of 50 km/h?|3 hours|2 hours|4 hours|5 hours|Time = distance/speed = 150/50 = 3 hours.
-Simple interest on Rs 1000 at 10% per annum for 2 years is:|Rs 200|Rs 100|Rs 210|Rs 220|SI = (P × R × T)/100 = (1000 × 10 × 2)/100 = Rs 200.
-The area of a rectangle of length 10 cm and breadth 5 cm is:|50 cm²|30 cm²|15 cm²|100 cm²|Area = length × breadth = 10 × 5 = 50 cm². The perimeter is 2(10 + 5) = 30 cm.
-The area of a circle of radius 7 cm (π = 22/7) is:|154 cm²|44 cm²|22 cm²|49 cm²|Area = πr² = 22/7 × 49 = 154 cm². The circumference is 2πr = 44 cm.
-The sum of angles of a triangle is:|180 degrees|90 degrees|360 degrees|270 degrees|The sum of interior angles of a quadrilateral is 360 degrees.
-The square root of 144 is:|12|14|11|13|12 × 12 = 144. The square root of 169 is 13 and 225 is 15.
-The cube of 3 is:|27|9|81|6|3 × 3 × 3 = 27.
-What is the LCM of 4 and 6?|12|24|2|10|Multiples of 4: 4, 8, 12; multiples of 6: 6, 12. The lowest common multiple is 12. HCF of 4 and 6 is 2.
-What is the HCF of 12 and 18?|6|3|9|2|Factors of 12: 1, 2, 3, 4, 6, 12. Factors of 18: 1, 2, 3, 6, 9, 18. Highest common is 6.
-If x + 5 = 12, then x equals:|7|17|5|6|Subtract 5 from both sides: x = 12 − 5 = 7.
-If 3x = 21, then x equals:|7|63|18|9|Divide both sides by 3.
-Which of the following is a prime number?|29|27|33|39|29 has only two factors: 1 and itself. 27, 33 and 39 are divisible by 3.
-Convert 0.75 into a fraction:|3/4|1/4|7/5|2/3|0.75 = 75/100 = 3/4.
-Which is the greatest fraction: 1/2, 2/3, 3/4, 4/5?|4/5|1/2|2/3|3/4|Decimal equivalents: 0.5, 0.67, 0.75, 0.8. So 4/5 is greatest.
-Arrange in order: 0.5, 0.05, 0.55, 0.505. The smallest is:|0.05|0.5|0.55|0.505|Compare the digits after the decimal: 0.05 has the smallest tenths place.
-Odd one out: Dog, Cat, Cow, Eagle|Eagle|Dog|Cat|Cow|Dog, cat and cow are mammals; an eagle is a bird. (Odd one out type questions test classification.)
-Odd one out: Doctor, Nurse, Engineer, Pharmacist|Engineer|Doctor|Nurse|Pharmacist|Doctor, nurse and pharmacist are health professionals.
-Odd one out: 8, 27, 64, 100|100|8|27|64|8, 27 and 64 are perfect cubes (2³, 3³, 4³). 100 is not.
-Analogy: Book is to Reading as Fork is to:|Eating|Drawing|Writing|Cooking|A book is used for reading and a fork is used for eating. Analogies test relationships between pairs.
-Analogy: Hot is to Cold as Day is to:|Night|Sun|Light|Morning|Hot and cold are opposites; day and night are also opposites.
-Analogy: Doctor is to Hospital as Teacher is to:|School|Court|Market|Farm|The relationship is a professional and their workplace.
-If in a certain code, CAT is written as DBU, then DOG is written as:|EPH|ENF|DPH|EOH|Each letter is shifted forward by one place: C→D, A→B, T→U; D→E, O→P, G→H.
-If A = 1, B = 2, C = 3, then the value of CAB is:|312|321|123|132|C = 3, A = 1 and B = 2. Written in order, it is 312 (a coding-decoding question).
-Which day comes after Wednesday, if yesterday was Tuesday?|Thursday|Friday|Tuesday|Wednesday|If yesterday was Tuesday, today is Wednesday and tomorrow is Thursday.
-A is the brother of B, B is the sister of C. How is C related to A?|Brother or sister|Father|Uncle|Cousin|A and B are siblings and B and C are siblings, so all three are siblings of each other.
-Pointing to a photograph, a man said: 'He is the son of my father's only son.' The man in the photograph is the speaker's:|Son|Brother|Father|Nephew|The father's only son is the speaker himself, so the photo is of the speaker's son.
-A man walks 5 km east and then 5 km north. How far is he from the starting point (in a straight line)?|About 7.07 km|10 km|5 km|12 km|By the Pythagoras theorem, distance = √(5² + 5²) = √50 ≈ 7.07 km.
-If you face north and turn 90 degrees to the right, you will face:|East|West|South|North|Right turn from north gives east. A left turn would give west.
-How many days are there in a leap year?|366|365|364|360|A leap year has February with 29 days. Years divisible by 4 are leap years (except century years not divisible by 400).
-How many minutes are there in 2.5 hours?|150|120|135|180|2.5 × 60 = 150 minutes.
-If today is Friday, what will be the day after 10 days?|Monday|Sunday|Tuesday|Wednesday|10 days = 1 week + 3 days. Friday + 3 days = Monday.
-How many degrees does the hour hand of a clock move in one hour?|30 degrees|60 degrees|15 degrees|12 degrees|A full circle is 360 degrees and there are 12 hours, so 360/12 = 30 degrees per hour.
-The angle between the hands of a clock at 3:00 is:|90 degrees|60 degrees|180 degrees|120 degrees|At 3 o'clock the minute hand points at 12 and the hour hand points at 3, a quarter of the circle (90 degrees).
+# Test 13 - Islamiat
+How many Surahs are there in the Holy Quran?|114|110|120|99|The Quran has 114 chapters (surahs) arranged in 30 paras (juz). Surah Al-Fatiha is the first and Surah An-Nas the last.
+The first Surah of the Holy Quran in sequence is:|Al-Fatiha|Al-Baqarah|Al-Alaq|An-Nas|Al-Fatiha ('The Opening') has seven verses and is recited in every rakat of prayer. It is also called Umm-ul-Kitab.
+The first revelation to the Holy Prophet (PBUH) came in the cave of:|Hira|Thawr|Uhud|Arafat|The first five verses of Surah Al-Alaq were revealed through Jibreel (AS) in Ramadan, around 610 CE, when the Prophet was about 40 years old.
+The longest Surah of the Quran is:|Al-Baqarah|Al-Imran|An-Nisa|Al-Maidah|Al-Baqarah has 286 verses. Ayat-ul-Kursi is verse 255 of this Surah.
+The shortest Surah of the Quran (by verses) is:|Al-Kauthar|Al-Asr|An-Nasr|Al-Ikhlas|Al-Kauthar (108) has three verses; Al-Asr and An-Nasr also have three verses but Al-Kauthar has the fewest words.
+Which Surah does not begin with Bismillah?|At-Tawbah|Al-Fatiha|Al-Kahf|Yaseen|Surah At-Tawbah (Al-Bara'ah) begins without Bismillah. Surah An-Naml contains Bismillah twice.
+Surah 'Al-Ikhlas' is equal to what part of the Quran in reward as mentioned in hadith?|One-third|One-half|One-fourth|Whole|Al-Ikhlas affirms Tawheed. Hadith in Bukhari states that it equals one-third of the Quran.
+The Quran was revealed over a period of:|About 23 years|10 years|40 years|13 years|13 years in Makkah and about 10 years in Madinah. Makki Surahs focus on faith; Madani ones on laws and society.
+The first person to compile the Quran in the form of a book (Mushaf) was:|Hazrat Abu Bakr (RA) through Zaid bin Thabit|Hazrat Uthman|Hazrat Ali|Hazrat Umar|After the Battle of Yamama, Umar advised Abu Bakr to compile it. Uthman later standardized the script and sent copies to provinces.
+Which Caliph standardized the Quran in one dialect (Quraish) and sent copies to cities?|Hazrat Uthman (RA)|Hazrat Abu Bakr (RA)|Hazrat Umar (RA)|Hazrat Ali (RA)|Uthman (RA) is called Jami-ul-Quran for this reason.
+How many pillars of Islam are there?|Five|Four|Six|Seven|Shahada (faith), Salah (prayer), Zakat, Sawm (fasting in Ramadan) and Hajj (for those who are able).
+The Hijri calendar was introduced during the Caliphate of:|Hazrat Umar (RA)|Hazrat Abu Bakr (RA)|Hazrat Uthman (RA)|Hazrat Ali (RA)|It starts from the Hijra (migration) of the Prophet to Madinah in 622 CE. First month is Muharram.
+Which month is the ninth month of the Islamic calendar?|Ramadan|Rajab|Shaban|Shawwal|Order: Muharram, Safar, Rabi-ul-Awwal, Rabi-ul-Sani, Jumada-ul-Awwal, Jumada-ul-Sani, Rajab, Shaban, Ramadan, Shawwal, Dhul-Qadah and Dhul-Hijjah.
+Obligatory (fard) rakats of Zuhr prayer are:|4|2|3|5|Fajr 2, Zuhr 4, Asr 4, Maghrib 3 and Isha 4. Witr is 3 (wajib).
+The Prophet (PBUH) was born in Makkah in the year of the Elephant on:|12 Rabi-ul-Awwal (about 570 CE)|9 Dhul-Hijjah|10 Muharram|27 Rajab|His father Abdullah died before his birth and mother Amina died when he was six. Grandfather Abdul Muttalib and then uncle Abu Talib cared for him.
+The foster mother of the Prophet (PBUH) was:|Halima Sadia|Umm Ayman|Khadija|Fatima bint Asad|Halima Sadia of Banu Saad nursed him in the desert. Umm Ayman also looked after him.
+The Prophet's first wife was:|Hazrat Khadija (RA)|Hazrat Aisha|Hazrat Hafsa|Hazrat Zainab|Khadija (RA) was a wealthy merchant. They married when he was 25 and she was 40. She was the first to believe.
+The Hijrah (migration) to Madinah took place in:|622 CE|610 CE|630 CE|632 CE|The Prophet migrated with Abu Bakr and stayed in the cave of Thawr. The people of Madinah (Ansar) welcomed him.
+The first battle of Islam was fought in:|2 AH at Badr|3 AH at Uhud|5 AH at Khandaq|8 AH at Hunain|At Badr 313 Muslims faced about 1000 Makkans and won. At Uhud (3 AH) Muslims suffered setbacks; at Khandaq (5 AH) a trench was dug on Salman Farsi's advice.
+The Treaty of Hudaibiya was signed in:|6 AH|2 AH|8 AH|10 AH|Quran called it 'a clear victory' (Surah Al-Fath). It paved the way for the peaceful conquest of Makkah in 8 AH.
+The Prophet's Farewell Sermon was delivered at:|Arafat|Madinah|Hira|Mina only|It was given on 9 Dhul-Hijjah 10 AH. It stressed rights of women, human equality and sanctity of life and property.
+The Holy Prophet (PBUH) passed away on:|12 Rabi-ul-Awwal 11 AH in Madinah|10 Muharram 1 AH|27 Ramadan|9 Dhul-Hijjah|He was buried in the room of Hazrat Aisha (RA), now in Masjid-e-Nabawi.
+The first Caliph of Islam was:|Hazrat Abu Bakr Siddiq (RA)|Hazrat Umar|Hazrat Uthman|Hazrat Ali|Abu Bakr ruled 632–634 CE. He fought apostasy and false prophets and began compilation of the Quran.
+Who was called 'Farooq' (one who distinguishes truth from falsehood)?|Hazrat Umar bin Khattab (RA)|Hazrat Abu Bakr|Hazrat Ali|Hazrat Khalid bin Walid|Umar (634–644 CE) established the Diwan, Bait-ul-Mal, police, and judiciary systems and the Hijri calendar.
+Hazrat Uthman (RA) is known as:|Ghani and Zun-Nurayn|Siddiq|Farooq|Haidar|Zun-Nurayn means 'possessor of two lights' since he married two daughters of the Prophet (Ruqayyah and Umm Kulthum).
+Who is called the 'Sword of Allah' (Saifullah)?|Khalid bin Walid (RA)|Hamza|Ali|Umar|The title was given by the Prophet (PBUH). He was a commander in the conquest of Syria and Iraq.
+Which book of Hadith is considered the most authentic?|Sahih al-Bukhari|Sunan Abu Dawud|Muwatta|Musnad Ahmad|Bukhari, followed by Sahih Muslim, form the Sahihayn. The six canonical books (Sihah Sitta) also include Abu Dawud, Tirmidhi, Nasai and Ibn Majah.
+Imam Abu Hanifa (RA) was born in:|Kufa|Madinah|Baghdad|Cairo|Imam Abu Hanifa (80–150 AH) founded the Hanafi school, followed by the majority in Pakistan. Others: Maliki, Shafi'i and Hanbali.
+The four sources of Islamic law (Fiqh) are:|Quran, Sunnah, Ijma and Qiyas|Quran, Torah, Bible, Zabur|Hadith, Culture, Custom, Law|Ijma, Taqlid, Tafsir, Hadith|Ijma is consensus of scholars; Qiyas is analogical reasoning. Ijtihad is independent reasoning.
+Which Surah of the Quran says: 'Do not kill your children for fear of poverty'?|Al-Isra (17:31)|Al-Fatiha|Al-Ikhlas|Al-Asr|Islam strongly protects the child's right to life. The Quran condemned the pre-Islamic practice of female infanticide (At-Takwir 81:8–9).
+Which of the following is a right of a child in Islam?|Right to life, name, education, maintenance and kind treatment|Right to work as an adult|Right to be punished harshly|Right to be neglected|The Prophet (PBUH) emphasized good names, aqiqah, breastfeeding for two years (2:233), education and equal treatment among children.
+For how long does the Quran direct mothers to breastfeed children?|Two years|Six months|Five years|One month|Surah Al-Baqarah 2:233: mothers shall give suck to their children for two whole years for those who wish to complete the term.
+The Prophet (PBUH) said that the one who looks after an orphan will be with him in Paradise:|Like two fingers together|Far away|Like neighbours|As servants|Hadith in Sahih Bukhari: 'I and the guardian of an orphan will be in Paradise like this', pointing with two fingers.
+Misappropriating an orphan's property is condemned in Surah:|An-Nisa|Al-Fatiha|Al-Ikhlas|Quraish|An-Nisa 4:10 warns that those who devour the property of orphans unjustly only swallow fire in their bellies. Surah Al-Maun and Ad-Duha also mention orphans.
+Which Surah instructs 'So as for the orphan, do not oppress him'?|Ad-Duha (93:9)|Al-Alaq|Al-Qadr|Al-Fil|The verse reminds the Prophet (PBUH) of his own orphanhood and commands kindness to orphans.
+The Prophet (PBUH) said, 'He who does not show mercy to our young...' The complete meaning is:|He is not one of us|He is rich|He is a king|He is a guest|Narrated by Tirmidhi and Abu Dawud. The Prophet kissed his grandsons Hasan and Husain, played with children and advised fairness among children.
+What is the Islamic term for the ceremony of shaving a baby's head and sacrificing animal on the 7th day?|Aqiqah|Walima|Qurbani|Nikah|Aqiqah is Sunnah and includes naming the child. Qurbani is performed on Eid-ul-Adha.
+Zakat is obligatory on a Muslim possessing wealth equal to nisab for one lunar year at the rate of:|2.5 percent|10 percent|5 percent|20 percent|Nisab is 7.5 tolas (87.48 g) of gold or 52.5 tolas (612.36 g) of silver. Recipients are eight categories in Surah At-Tawbah 9:60 including poor, needy and those in debt.
+Eid-ul-Fitr is observed on:|1 Shawwal|10 Dhul-Hijjah|12 Rabi-ul-Awwal|27 Rajab|Eid-ul-Adha is on 10 Dhul-Hijjah. Sadaqah-ul-Fitr is paid before the Eid prayer to help the poor.
+Hajj is performed in the month of:|Dhul-Hijjah|Ramadan|Muharram|Rajab|Main rites: Ihram, Tawaf, Sai, standing at Arafat on 9th, Muzdalifah, Rami at Jamarat, Qurbani and Tawaf-ul-Ifadah.
+Laylat-ul-Qadr is found in:|The last ten nights of Ramadan (odd nights)|Rajab|Shaban|Shawwal|Surah Al-Qadr says the Night of Decree is better than a thousand months.
+Which angel is responsible for conveying revelation?|Jibreel (AS)|Mikail|Israfil|Azrael|Mikail is in charge of rain/provision, Israfil will blow the trumpet and Azrael takes souls.
+Which holy book was revealed to Hazrat Musa (AS)?|Torah (Tawrat)|Zabur|Injil|Quran|Zabur was revealed to Dawud (AS) and Injil to Isa (AS). The Quran was revealed to Muhammad (PBUH).
+The Last Prophet according to the Quran is:|Hazrat Muhammad (PBUH)|Hazrat Isa|Hazrat Musa|Hazrat Ibrahim|Surah Al-Ahzab 33:40 calls him Khatam-un-Nabiyyin (Seal of the Prophets).
+The Charter of Madinah (Misaq-e-Madina) was made after the Hijrah to:|Establish rights and duties among Muslims, Jews and other tribes|Declare war|Divide land|Form a market|It is considered the first written constitution of an Islamic state, guaranteeing freedom of religion and mutual defence.
+Muakhat (brotherhood) in Madinah was established between:|Muhajirin and Ansar|Quraish and Jews|Sunni and Shia|Arabs and Persians|The Prophet paired each emigrant with a helper from Madinah, helping to settle the refugees.
+The conquest of Makkah took place in:|8 AH (630 CE)|2 AH|5 AH|10 AH|The Prophet entered Makkah with 10,000 men and declared a general amnesty. The idols in the Kaaba were destroyed.
+The Quranic definition of 'Taqwa' is:|God-consciousness and fear of displeasing Allah|Wealth|Fame|Power|The Quran says the noblest in the sight of Allah is the most righteous (49:13). Taqwa is the basis of honour, not race or class.
+The 'Sunnah' means:|Sayings, actions and tacit approvals of the Prophet (PBUH)|Only the Quran|Only tradition of Arabs|Only consensus|Hadith is the report of Sunnah. Authentic hadith are classified as Sahih, Hasan and Daif.
+The Prophet (PBUH) said the best among you are those who:|Are best to their families|Have the most wealth|Are strongest|Have most children|Narrated by Tirmidhi and Ibn Majah. Good treatment of wife, children and parents is central to Islamic ethics.
